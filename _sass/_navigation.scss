@@ -176,7 +176,6 @@
   position: relative;
   min-width: 250px;
   background: $background-color;
-  text-align: right;
 
   a {
     display: block;
@@ -204,8 +203,6 @@
 
   .visible-links {
     display: table;
-    text-align: right;
-    background-color: aqua;
 
     li {
       display: table-cell;
