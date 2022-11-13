@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: /publications/
 
-  - title: "Education"
-    url: /talks/    
+  #- title: "Education"
+  #  url: /talks/    
 
   - title: "Professional Experience"
     url: /teaching/    
