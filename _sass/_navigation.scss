@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: red;//$background-color;
+  background: $background-color;
   text-align: right;
 
   a {
@@ -204,6 +204,7 @@
 
   .visible-links {
     display: table;
+    text-align: right;
 
     li {
       display: table-cell;
