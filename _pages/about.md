@@ -49,7 +49,7 @@ Languages and Operating Systems
 1. Visual Basic.Net
 1. Javascript
 
-***Able to program in ***  
+***Able to program in***  
 2. C/C++
 2. Assembly
 1. PHP
