@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: #"My Personal Website"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,7 @@ Education
 2001 – 2005       Kwame Nkrumah University of Science and Technology, Ghana  
 1997 – 1999       Ghana Secondary Technical School, Ghana
 
-**Certificates**
+**Certificates**   
 MSc. Information Technology from VirginiaTech (1st Class), U.S.A.  
 BSc. Computer Engineering (Second Class Honours, Upper Division) from K.N.U.S.T.  
 
@@ -40,12 +40,12 @@ Languages and Operating Systems
 ------
 **Computer Languages**  
 ***Proficient in***  
-1. Microsoft .Net C#
-1. Java
-1. Spring Boot
-1. ASP.Net
-1. CSS
-1. SQL and the various variants (Pg, PL, Transact)
+>1. Microsoft .Net C#
+>1. Java
+>1. Spring Boot
+>1. ASP.Net
+>1. CSS
+>1. SQL and the various variants (Pg, PL, Transact)
 1. Visual Basic.Net
 1. Javascript
 
