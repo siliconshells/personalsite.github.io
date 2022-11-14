@@ -43,6 +43,7 @@ Languages and Operating Systems
 **Computer Languages** 
 
 ***Proficient in***  
+-------
 Microsoft .Net C#, Java, Spring Boot, ASP.Net, CSS, QL and the various variants (Pg, PL, Transact), Visual Basic.Net, Javascript
 
 ***Able to program in***  
