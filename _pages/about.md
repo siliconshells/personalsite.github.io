@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -40,12 +40,12 @@ Languages and Operating Systems
 ------
 **Computer Languages**  
 ***Proficient in***  
->1. Microsoft .Net C#
->1. Java
->1. Spring Boot
->1. ASP.Net
->1. CSS
->1. SQL and the various variants (Pg, PL, Transact)
+1. Microsoft .Net C#
+1. Java
+1. Spring Boot
+1. ASP.Net
+1. CSS
+1. SQL and the various variants (Pg, PL, Transact)
 1. Visual Basic.Net
 1. Javascript
 
