@@ -6,8 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
 
+#Example: editing a markdown file for a talk
+#![Editing a markdown file for a talk](/images/editing-talk.png)
+---
 Education
 ------
 2016 – 2018       Virginia Polytechnic Institute and State University (VirginiaTech)  
@@ -38,31 +40,19 @@ Turing Engineer (Turing.com) – July 2022
 
 Languages and Operating Systems
 ------
-**Computer Languages**  
+**Computer Languages** 
+
 ***Proficient in***  
-1. Microsoft .Net C#
-1. Java
-1. Spring Boot
-1. ASP.Net
-1. CSS
-1. SQL and the various variants (Pg, PL, Transact)
-1. Visual Basic.Net
-1. Javascript
+Microsoft .Net C#, Java, Spring Boot, ASP.Net, CSS, QL and the various variants (Pg, PL, Transact), Visual Basic.Net, Javascript
 
 ***Able to program in***  
-2. C/C++
-2. Assembly
-1. PHP
-1. python
-1. other languages when necessary
+C/C++, Assembly, PHP, python and other languages when necessary
 
 ***Learning***  
-3. Reactjs
-3. Nodejs
-3. Angular
-4. GraphQL
+Reactjs, Nodejs, Angular, GraphQL
 
 **Human Languages**  
+
 ***Proficient in***  
 Fante, English, Twi
 
@@ -74,6 +64,4 @@ French
 Windows Desktop, Windows Server, Linux, Mac OS, Android, IOS  
 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
