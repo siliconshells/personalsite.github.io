@@ -48,7 +48,6 @@ Activities in this position include:
 ---
 
 <br >
-<br >
 
 **Period:** February 2007 to July 2007   
 **Institution:** ECOWAS Biometric Passport Project, Liberia   
@@ -65,7 +64,6 @@ Activities in this position include:
 ---
 
 <br >
-<br >
 
 
 **Period:** August 2006 to February 2007   
@@ -80,7 +78,6 @@ Activities in this position include:
 
 ---
 
-<br >
 <br >
 
 
@@ -98,7 +95,6 @@ Activities in this position include:
 
 ---
 
-<br >
 <br >
 
 
