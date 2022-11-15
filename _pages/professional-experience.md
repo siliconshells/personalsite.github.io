@@ -12,13 +12,9 @@ redirect_from:
 ---
 **Professional Experience**
 
-Period: July 2007 to date   
-Institution: Buck Press Limited (Ghana and Liberia)   
-Position: IT Manager  
-------
-
-Education
-------
+**Period:** July 2007 to date   
+**Institution:** Buck Press Limited (Ghana and Liberia)   
+**Position:** IT Manager  
 
 •	I recommend and report on best IT practices and approaches to management and stakeholders for consideration and adoption. 
 
@@ -52,9 +48,9 @@ Education
 
 
 
-Period: February 2007 to July 2007   
-Institution: ECOWAS Biometric Passport Project, Liberia   
-###Position: IT Manager###  
+**Period:** February 2007 to July 2007   
+**Institution:** ECOWAS Biometric Passport Project, Liberia   
+**Position:** IT Manager###  
 
 
 •	Maintained an integrated system of different software for the biometric data capture, storage and personalization of passports as well as some managerial duties. 
@@ -64,21 +60,18 @@ Institution: ECOWAS Biometric Passport Project, Liberia
 •	Worked under Buck Press limited.
 
 
-Period: August 2006 to February 2007   
-Institution: Kofi Annan Centre of Excellence in ICT   
-Position: Software Engineer     
-------
+**Period:** August 2006 to February 2007   
+**Institution:** Kofi Annan Centre of Excellence in ICT   
+**Position:** Software Engineer     
 
 •	I developed software in a team and was in charge of Agriculture and ICT. 
 
 •	Attended a number of workshops both technical and non-technical.
 
 
-Period: July 2005 to August 2006   
-Institution: Kofi Annan Centre of Excellence in ICT   
-Position: National Service and Internship from Ronald Brown Institute     
-------
-
+**Period:** July 2005 to August 2006   
+**Institution:** Kofi Annan Centre of Excellence in ICT   
+**Position:** National Service and Internship from Ronald Brown Institute     
 •	I started with a three-month USAID sponsored graduate internship after completing an entrepreneurial course and presenting a business plan.
 
 •	Was taken up to do my National Service after completing internship. 
@@ -87,10 +80,10 @@ Position: National Service and Internship from Ronald Brown Institute
 
 
 
-Period: University period 2001 – 2005   
-Institution: Various Organisations   
-Position: Internships     
-------   
+**Period:** University period 2001 – 2005   
+**Institution:** Various Organisations   
+**Position:** Internships     
+
 Volta River Authority (Ghana’s power generation institution), Akuse
 -	Main knowledge acquired – Software development and networking
 
