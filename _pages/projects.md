@@ -10,7 +10,7 @@ redirect_from:
 #Example: editing a markdown file for a talk
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
-###Mobile Biometric Data Enrolment Unit###  
+**Mobile Biometric Data Enrolment Unit**  
 
  <p align="center">![Mobile Enrolment Unit](/images/mobile_unit.jpg)</p>
 
