@@ -14,7 +14,7 @@ redirect_from:
 **Position:** IT Manager  
 
 ---   
-
+Activities in this position include:   
 - I recommend and report on best IT practices and approaches to management and stakeholders for consideration and adoption. 
 
 - I designed and led a team of 4 to develop a number of softwares and networks from scratch. The Software Suite of 14 different Biometric Passport multi-tiered softwares is currently being used for the data capture, analysis, processing, storage and personalisation of Ghanaian passports, Liberian passports, Ghana Refugee Board Travel Documents and others. 
@@ -45,20 +45,23 @@ redirect_from:
 
 - Work with government agencies including auditors and security agencies for the continuous running of the projects.
 
+---
 
-
+<br >
+<br >
+<br >
 
 **Period:** February 2007 to July 2007   
 **Institution:** ECOWAS Biometric Passport Project, Liberia   
 **Position:** IT Manager  
 
 ---   
+Activities in this position include:   
+- Maintained an integrated system of different software for the biometric data capture, storage and personalization of passports as well as some managerial duties. 
 
-•	Maintained an integrated system of different software for the biometric data capture, storage and personalization of passports as well as some managerial duties. 
+- Collaborated with the developers of the software being used then for various customizations. Modification of the software package to suit our requirements. 
 
-•	Collaborated with the developers of the software being used then for various customizations. Modification of the software package to suit our requirements. 
-
-•	Worked under Buck Press limited.
+- Worked under Buck Press limited.
 
 
 
@@ -68,10 +71,10 @@ redirect_from:
 **Position:** Software Engineer     
 
 ---   
+Activities in this position include:   
+- I developed software in a team and was in charge of Agriculture and ICT. 
 
-•	I developed software in a team and was in charge of Agriculture and ICT. 
-
-•	Attended a number of workshops both technical and non-technical.
+- Attended a number of workshops both technical and non-technical.
 
 
 
@@ -81,12 +84,12 @@ redirect_from:
 **Position:** National Service and Internship from Ronald Brown Institute  
 
 ---   
+Activities in this position include:   
+- I started with a three-month USAID sponsored graduate internship after completing an entrepreneurial course and presenting a business plan.
 
-•	I started with a three-month USAID sponsored graduate internship after completing an entrepreneurial course and presenting a business plan.
+- Was taken up to do my National Service after completing internship. 
 
-•	Was taken up to do my National Service after completing internship. 
-
-•	Worked as a Software Developer, Teaching Assistant and a Teacher. Assisted in .Net Framework tuition and taught Fundamentals of Computing. Was employed after my National Service.
+- Worked as a Software Developer, Teaching Assistant and a Teacher. Assisted in .Net Framework tuition and taught Fundamentals of Computing. Was employed after my National Service.
 
 
 
