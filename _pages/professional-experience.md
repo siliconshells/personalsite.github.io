@@ -1,5 +1,5 @@
 ---
-permalink: /professional-experience
+permalink: /professional-experience/
 title: ""
 excerpt: "Professional Experience"
 author_profile: true
