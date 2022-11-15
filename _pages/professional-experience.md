@@ -4,8 +4,7 @@ title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /professional-experience/
-  - /professional-experience.html
+
 
 #Example: editing a markdown file for a talk
 #![Editing a markdown file for a talk](/images/editing-talk.png)
