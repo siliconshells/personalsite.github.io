@@ -10,11 +10,12 @@ redirect_from:
 #Example: editing a markdown file for a talk
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
-Education
-------
-July 2007 to date                                        Buck Press Limited (Ghana and Liberia)
+**Professional Experience**
 
-IT Manager 
+Period: July 2007 to date   
+Institution: Buck Press Limited (Ghana and Liberia)   
+Position: IT Manager  
+------
 •	I recommend and report on best IT practices and approaches to management and stakeholders for consideration and adoption. 
 
 •	I designed and led a team of 4 to develop a number of softwares and networks from scratch. The Software Suite of 14 different Biometric Passport multi-tiered softwares is currently being used for the data capture, analysis, processing, storage and personalisation of Ghanaian passports, Liberian passports, Ghana Refugee Board Travel Documents and others. 
@@ -45,25 +46,34 @@ IT Manager
 
 •	Work with government agencies including auditors and security agencies for the continuous running of the projects.
 
-February 2007 to July 2007              ECOWAS Biometric Passport Project, Liberia
 
-IT Manager 
+
+Period: February 2007 to July 2007   
+Institution: ECOWAS Biometric Passport Project, Liberia   
+Position: IT Manager  
+------
 •	Maintained an integrated system of different software for the biometric data capture, storage and personalization of passports as well as some managerial duties. 
 
 •	Collaborated with the developers of the software being used then for various customizations. Modification of the software package to suit our requirements. 
 
 •	Worked under Buck Press limited.
 
-August 2006 to February 2007                      Kofi Annan Centre of Excellence in ICT
 
-Software Engineer 
+Period: August 2006 to February 2007   
+Institution: Kofi Annan Centre of Excellence in ICT   
+Position: Software Engineer     
+------
+
 •	I developed software in a team and was in charge of Agriculture and ICT. 
 
 •	Attended a number of workshops both technical and non-technical.
 
-July 2005 to August 2006                                Kofi Annan Centre of Excellence in ICT
 
-National Service and Internship from Ronald Brown Institute 
+Period: July 2005 to August 2006   
+Institution: Kofi Annan Centre of Excellence in ICT   
+Position: National Service and Internship from Ronald Brown Institute     
+------
+
 •	I started with a three-month USAID sponsored graduate internship after completing an entrepreneurial course and presenting a business plan.
 
 •	Was taken up to do my National Service after completing internship. 
@@ -72,8 +82,10 @@ National Service and Internship from Ronald Brown Institute
 
 
 
-University period 2001 – 2005                                                    Various Organisations
-Internships
+Period: University period 2001 – 2005   
+Institution: Various Organisations   
+Position: Internships     
+------
 
 Volta River Authority (Ghana’s power generation institution), Akuse
 -	Main knowledge acquired – Software development and networking
@@ -83,6 +95,3 @@ Busy Internet, Accra
 
 Maths Department, University College of Education
 -	Main knowledge acquired – Microsoft Active Directory and ICT Tuition
-
-
-
