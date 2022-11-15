@@ -12,12 +12,6 @@ redirect_from:
 ---
 **Mobile Biometric Data Enrolment Unit**  
 
-<div align="center">
-
-  ![Mobile Enrolment Unit](/images/mobile_unit.jpg)
-
-</div>
-
 <p align="center">
   <img src="/images/mobile_unit.jpg" />
 </p>
