@@ -30,7 +30,7 @@ Conferences, Workshops and Seminars
 
 Professional Membership
 ------
-Institute of Electrical and Electronic Engineers (IEEE #91300386)   
+Institute of Electrical and Electronic Engineers   
 
 
 Other Membership
@@ -50,7 +50,7 @@ Microsoft .Net C#, Java, Spring Boot, ASP.Net, CSS, QL and the various variants 
 C/C++, Assembly, PHP, python and other languages when necessary
 
 ***Learning***  
-Reactjs, Nodejs, Angular, GraphQL
+Reactjs, Nodejs, Angular, GraphQL, Flutter, TensorFlow
 
 **Human Languages**  
 
