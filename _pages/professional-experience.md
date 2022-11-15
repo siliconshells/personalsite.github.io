@@ -15,7 +15,7 @@ redirect_from:
 **Period:** July 2007 to date   
 **Institution:** Buck Press Limited (Ghana and Liberia)   
 **Position:** IT Manager  
----
+---   
 
 •	I recommend and report on best IT practices and approaches to management and stakeholders for consideration and adoption. 
 
@@ -51,7 +51,7 @@ redirect_from:
 
 **Period:** February 2007 to July 2007   
 **Institution:** ECOWAS Biometric Passport Project, Liberia   
-**Position:** IT Manager###  
+**Position:** IT Manager  
 
 
 •	Maintained an integrated system of different software for the biometric data capture, storage and personalization of passports as well as some managerial duties. 
