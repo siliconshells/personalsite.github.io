@@ -15,7 +15,7 @@ redirect_from:
 **Period:** July 2007 to date   
 **Institution:** Buck Press Limited (Ghana and Liberia)   
 **Position:** IT Manager  
-
+---
 •	I recommend and report on best IT practices and approaches to management and stakeholders for consideration and adoption. 
 
 •	I designed and led a team of 4 to develop a number of softwares and networks from scratch. The Software Suite of 14 different Biometric Passport multi-tiered softwares is currently being used for the data capture, analysis, processing, storage and personalisation of Ghanaian passports, Liberian passports, Ghana Refugee Board Travel Documents and others. 
