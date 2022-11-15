@@ -49,7 +49,6 @@ Activities in this position include:
 
 <br >
 <br >
-<br >
 
 **Period:** February 2007 to July 2007   
 **Institution:** ECOWAS Biometric Passport Project, Liberia   
@@ -63,7 +62,10 @@ Activities in this position include:
 
 - Worked under Buck Press limited.
 
+---
 
+<br >
+<br >
 
 
 **Period:** August 2006 to February 2007   
@@ -76,7 +78,10 @@ Activities in this position include:
 
 - Attended a number of workshops both technical and non-technical.
 
+---
 
+<br >
+<br >
 
 
 **Period:** July 2005 to August 2006   
@@ -91,7 +96,10 @@ Activities in this position include:
 
 - Worked as a Software Developer, Teaching Assistant and a Teacher. Assisted in .Net Framework tuition and taught Fundamentals of Computing. Was employed after my National Service.
 
+---
 
+<br >
+<br >
 
 
 **Period:** University period 2001 – 2005   
@@ -108,3 +116,5 @@ Busy Internet, Accra
 
 Maths Department, University College of Education
 -	Main knowledge acquired – Microsoft Active Directory and ICT Tuition
+
+---
