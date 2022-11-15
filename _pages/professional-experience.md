@@ -15,6 +15,7 @@ redirect_from:
 **Period:** July 2007 to date   
 **Institution:** Buck Press Limited (Ghana and Liberia)   
 **Position:** IT Manager  
+
 ---   
 
 •	I recommend and report on best IT practices and approaches to management and stakeholders for consideration and adoption. 
