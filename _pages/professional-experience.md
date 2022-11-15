@@ -16,6 +16,7 @@ Period: July 2007 to date
 Institution: Buck Press Limited (Ghana and Liberia)   
 Position: IT Manager  
 ------
+
 •	I recommend and report on best IT practices and approaches to management and stakeholders for consideration and adoption. 
 
 •	I designed and led a team of 4 to develop a number of softwares and networks from scratch. The Software Suite of 14 different Biometric Passport multi-tiered softwares is currently being used for the data capture, analysis, processing, storage and personalisation of Ghanaian passports, Liberian passports, Ghana Refugee Board Travel Documents and others. 
@@ -50,8 +51,9 @@ Position: IT Manager
 
 Period: February 2007 to July 2007   
 Institution: ECOWAS Biometric Passport Project, Liberia   
-Position: IT Manager  
-------
+###Position: IT Manager###  
+
+
 •	Maintained an integrated system of different software for the biometric data capture, storage and personalization of passports as well as some managerial duties. 
 
 •	Collaborated with the developers of the software being used then for various customizations. Modification of the software package to suit our requirements. 
@@ -85,8 +87,7 @@ Position: National Service and Internship from Ronald Brown Institute
 Period: University period 2001 – 2005   
 Institution: Various Organisations   
 Position: Internships     
-------
-
+------   
 Volta River Authority (Ghana’s power generation institution), Akuse
 -	Main knowledge acquired – Software development and networking
 
