@@ -26,14 +26,14 @@ I designed a Mobile Biometric Data Enrolment Unit from scratch through several i
 
 <br >
 
-**An Ecommerce Site I tried**  
+**An Ecommerce Site I started**  
 
 <p align="center">
   <img src="/images/ecommerce.png" />
 </p>
-An Ecommerce Platform under development   
+An Ecommerce Platform under development. It was written in ASP.Net Webforms and runs on MS SQL database using Telerik Controls.
 [See the test site here](https://external.ink?to=http://testshop.oxygenegroup.com)
-Was written in ASP.Net Webforms and runs on MS SQL database using Telerik Controls.
+
 
 <br >
 
