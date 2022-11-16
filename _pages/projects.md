@@ -32,7 +32,7 @@ I designed a Mobile Biometric Data Enrolment Unit from scratch through several i
   <img src="/images/ecommerce.png" />
 </p>
 An Ecommerce Platform under development   
-[See the test site here](http://testshop.oxygenegroup.com)
+[See the test site here](https://external.ink?to=http://testshop.oxygenegroup.com)
 Was written in ASP.Net Webforms and runs on MS SQL database using Telerik Controls.
 
 <br >
