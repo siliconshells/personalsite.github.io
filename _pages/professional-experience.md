@@ -1,14 +1,12 @@
 ---
 permalink: /professional-experience/
-title: ""
+title: "Professional Experience"
 excerpt: "Professional Experience"
 author_profile: true
 redirect_from: 
   # - /professional-experience/
   # - /professional-experience.html
 ---
-**Professional Experience**
-
 **Period:** July 2007 to date   
 **Institution:** Buck Press Limited (Ghana and Liberia)   
 **Position:** IT Manager  
