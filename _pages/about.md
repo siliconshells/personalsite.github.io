@@ -9,7 +9,7 @@ redirect_from:
 #Example: editing a markdown file for a talk
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
-I have many years industry practice, heading sensitive national projects. I want to focus on research in the next years of my career to contribute to the body of knowledge in IT and Engineering.
+I have many years of industry practice, heading sensitive national projects. I want to focus on research in the next years of my career to contribute to the body of knowledge in IT and Engineering.
 
 Education
 ------
