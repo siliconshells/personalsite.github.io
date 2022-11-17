@@ -41,24 +41,18 @@ Turing Engineer (Turing.com) – July 2022
 
 Languages and Operating Systems
 ------
-**Computer Languages** 
+**Computer Languages** .  
+***Proficient***  
+Microsoft .Net C#, Java, Spring Boot, ASP.Net, CSS, QL and the various variants (Pg, PL, Transact), Visual Basic.Net, Javascript  
+***Advanced***  
+C/C++, Assembly, PHP, python and other languages when necessary  
+***Beginner***  
+Reactjs, Nodejs, Angular, GraphQL, Flutter, TensorFlow 
 
-***Proficient in***  
--------
-Microsoft .Net C#, Java, Spring Boot, ASP.Net, CSS, QL and the various variants (Pg, PL, Transact), Visual Basic.Net, Javascript
-
-***Able to program in***  
-C/C++, Assembly, PHP, python and other languages when necessary
-
-***Learning***  
-Reactjs, Nodejs, Angular, GraphQL, Flutter, TensorFlow
-
-**Human Languages**  
-
-***Proficient in***  
-Fante, English, Twi
-
-***Learning***  
+**Human Languages**   
+***Proficient***  
+Fante, English, Twi   
+***Beginner***  
 French
 
 
