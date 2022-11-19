@@ -43,15 +43,18 @@ Languages and Operating Systems
 ------
 **Computer Languages** .  
 ***Proficient***  
-Microsoft .Net C#, Java, Spring Boot, ASP.Net, CSS, QL and the various variants (Pg, PL, Transact), Visual Basic.Net, Javascript  
+Microsoft .Net C#, Java, Spring Boot, ASP.Net, CSS, QL and the various variants (Pg, PL, Transact), Visual Basic.Net, Javascript
+
 ***Advanced***  
-C/C++, Assembly, PHP, python and other languages when necessary  
+C/C++, Assembly, PHP, python and other languages when necessary
+
 ***Beginner***  
 Reactjs, Nodejs, Angular, GraphQL, Flutter, TensorFlow 
 
 **Human Languages**   
 ***Proficient***  
-Fante, English, Twi   
+Fante, English, Twi
+
 ***Beginner***  
 French
 
