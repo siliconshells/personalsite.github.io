@@ -13,10 +13,24 @@ redirect_from:
 
 Companies I’ve collaborated with on projects 
 ------
-Innovatrics, Slovakia &nbsp;&nbsp;&nbsp;&nbsp;Diletta GmbH, Germany
-Muehlbauer AG, Germany &nbsp;&nbsp;&nbsp;&nbsp;Adaptive Recognition, Hungary
-OeSD, Austria	&nbsp;&nbsp;&nbsp;&nbsp;Xinfotech Ltd, Latvia
-Cetis d.d., Slovania &nbsp;&nbsp;&nbsp;&nbsp;Masktech GmbH, Germany
+<table>
+    <tr>
+        <td width="100">Innovatrics, Slovakia</td>
+        <td>Diletta GmbH, Germany</td>
+    </tr>
+    <tr>
+        <td>Muehlbauer AG, Germany</td>
+        <td>Adaptive Recognition, Hungary</td>
+    </tr>
+    <tr>
+        <td>OeSD, Austria</td>
+        <td>Xinfotech Ltd, Latvia</td>
+    </tr>
+        <tr>
+        <td>Cetis d.d., Slovania</td>
+        <td>Masktech GmbH, Germany</td>
+    </tr>
+</table>
   
 
 
