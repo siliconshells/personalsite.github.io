@@ -11,7 +11,7 @@ redirect_from:
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
 
-**Companies I’ve collaborated with on projects**  
+**Some companies I’ve collaborated with on projects**  
 Innovatrics, Slovakia   
 Diletta GmbH, Germany   
 Muehlbauer AG, Germany   
@@ -21,7 +21,7 @@ Xinfotech Ltd, Latvia
 Cetis d.d., Slovania   
 Masktech GmbH, Germany   
   
-
+<br>
 
 **Mobile Biometric Data Enrolment Unit**  
 

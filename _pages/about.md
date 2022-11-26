@@ -64,7 +64,7 @@ Windows Desktop, Windows Server, Linux, Mac OS, Android, IOS
 
 
 
-Some hardware I’ve integrated with their SDKs 
+Some hardware I’ve integrated, using their SDKs 
 ------
 Canon Cameras  
 Thales/Greenbit Fingerprint Scanners  
