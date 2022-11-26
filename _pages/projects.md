@@ -20,7 +20,6 @@ OeSD, Austria
 Xinfotech Ltd, Latvia   
 Cetis d.d., Slovania   
 Masktech GmbH, Germany   
-  
 <br>
 
 **Mobile Biometric Data Enrolment Unit**  
