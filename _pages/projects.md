@@ -11,26 +11,15 @@ redirect_from:
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
 
-Companies I’ve collaborated with on projects 
-------
-<table style="border:none">
-    <tr>
-        <td width="200">Innovatrics, Slovakia</td>
-        <td width="200">Diletta GmbH, Germany</td>
-    </tr>
-    <tr>
-        <td>Muehlbauer AG, Germany</td>
-        <td>Adaptive Recognition, Hungary</td>
-    </tr>
-    <tr>
-        <td>OeSD, Austria</td>
-        <td>Xinfotech Ltd, Latvia</td>
-    </tr>
-        <tr>
-        <td>Cetis d.d., Slovania</td>
-        <td>Masktech GmbH, Germany</td>
-    </tr>
-</table>
+**Companies I’ve collaborated with on projects**  
+- Innovatrics, Slovakia   
+- Diletta GmbH, Germany   
+Muehlbauer AG, Germany   
+Adaptive Recognition, Hungary   
+OeSD, Austria   
+Xinfotech Ltd, Latvia   
+Cetis d.d., Slovania   
+Masktech GmbH, Germany   
   
 
 
