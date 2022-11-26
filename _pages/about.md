@@ -64,3 +64,15 @@ Windows Desktop, Windows Server, Linux, Mac OS, Android, IOS
 
 
 
+Some special hardware I’ve integrated using their SDKs 
+------
+Canon Cameras
+Thales/Greenbit Fingerprint Scanners
+Futronic Fingerprint scanners
+Suprema Fingerprint Scanners
+Wacom Signature Pad	
+Topaz Signature Pad
+Desko Passport Readers
+Star Receipt Printers
+NXP ePassport Chip
+  

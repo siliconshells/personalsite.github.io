@@ -10,6 +10,16 @@ redirect_from:
 #Example: editing a markdown file for a talk
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
+
+Companies I’ve collaborated with on projects 
+------
+Innovatrics, Slovakia &nbsp;&nbsp;&nbsp;&nbsp;Diletta GmbH, Germany
+Muehlbauer AG, Germany &nbsp;&nbsp;&nbsp;&nbsp;Adaptive Recognition, Hungary
+OeSD, Austria	&nbsp;&nbsp;&nbsp;&nbsp;Xinfotech Ltd, Latvia
+Cetis d.d., Slovania &nbsp;&nbsp;&nbsp;&nbsp;Masktech GmbH, Germany
+  
+
+
 **Mobile Biometric Data Enrolment Unit**  
 
 <p align="center">
