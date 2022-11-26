@@ -12,8 +12,8 @@ redirect_from:
 ---
 
 **Companies I’ve collaborated with on projects**  
-- Innovatrics, Slovakia   
-- Diletta GmbH, Germany   
+Innovatrics, Slovakia   
+Diletta GmbH, Germany   
 Muehlbauer AG, Germany   
 Adaptive Recognition, Hungary   
 OeSD, Austria   
