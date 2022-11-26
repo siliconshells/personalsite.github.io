@@ -13,10 +13,10 @@ redirect_from:
 
 Companies I’ve collaborated with on projects 
 ------
-<table>
+<table style="border:none">
     <tr>
-        <td width="100">Innovatrics, Slovakia</td>
-        <td>Diletta GmbH, Germany</td>
+        <td width="200">Innovatrics, Slovakia</td>
+        <td width="200">Diletta GmbH, Germany</td>
     </tr>
     <tr>
         <td>Muehlbauer AG, Germany</td>

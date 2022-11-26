@@ -66,7 +66,7 @@ Windows Desktop, Windows Server, Linux, Mac OS, Android, IOS
 
 Some special hardware I’ve integrated using their SDKs 
 ------
-Canon Cameras  
+* Canon Cameras  
 Thales/Greenbit Fingerprint Scanners  
 Futronic Fingerprint scanners  
 Suprema Fingerprint Scanners   
