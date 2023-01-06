@@ -5,7 +5,10 @@ main:
 
   - title: "Professional Experience"
     url: /professional-experience/ #/teaching/    
-    
+
+  - title: "Achievements"
+    url: /achievements/
+
   - title: "Projects"
     url: /projects/
         
