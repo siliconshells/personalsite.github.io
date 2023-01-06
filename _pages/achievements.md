@@ -17,7 +17,9 @@ author_profile: true
 
 
 **Data Science Math Skills**
-Issuing Organization: Coursera, by Duke University. Credential ID: 4392D9YDHLBM    
+
+Issuing Organization: Coursera, by Duke University    
+Credential ID: 4392D9YDHLBM    
 
 <p align="center">
   <img src="/images/duke_certificate_1.png" />
