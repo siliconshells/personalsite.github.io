@@ -23,4 +23,10 @@ Issuing Organization: Coursera, by Duke University. Credential ID: 4392D9YDHLBM.
   <img src="/images/duke_certificate_1.png" />
 </p>
 
-<a href="https://www.coursera.org/account/accomplishments/certificate/4392D9YDHLBM" target="_blank">Verify here</a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/4392D9YDHLBM" target="_blank">Verify here</a>   
+
+<p align="center">
+  <img src="/images/duke_certificate_2.png" />
+</p>
+
+<a href="https://coursera.org/verify/BPYYS2XQ3SB5" target="_blank">Verify here</a>

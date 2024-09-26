@@ -49,5 +49,20 @@ An Ecommerce Platform under development. It was written in ASP.Net Webforms and 
 
 <br >
 
+**Human Resource and Payroll Management Software**  
+
+This is a Human Resource Management Software used by a company with multiple desktop clients. It's 3-tiered and runs on Microsoft SQL Server. It was developed with C#.
+
+A screenshot of the Client System.
+<p align="center">
+  <img src="/images/client.png" />
+</p>
+A screenshot of the Server.
+<p align="center">
+  <img src="/images/server.png" />
+</p>
+
+
+<br >
 **Other Significant Projects**   
 I don't have the permission of the clients to put these projects here but an overview can be provided upon request. Just contact me.
