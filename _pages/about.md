@@ -13,13 +13,13 @@ I have many years of industry practice, heading sensitive national projects. I w
 
 Education
 ------
-2024 - 2026       Duke University
+2024 - 2026       Duke University  
 2016 – 2018       Virginia Polytechnic Institute and State University (VirginiaTech)  
 2001 – 2005       Kwame Nkrumah University of Science and Technology, Ghana  
 1997 – 1999       Ghana Secondary Technical School, Ghana
 
-**Certificates** 
-MSc. Interdisciplinary Data Science from Duke University (underway)
+**Certificates**  
+MSc. Interdisciplinary Data Science from Duke University (underway)  
 MIT. Information Technology from VirginiaTech (1st Class), U.S.A.  
 BSc. Computer Engineering (Second Class Honours, Upper Division) from K.N.U.S.T.  
 
