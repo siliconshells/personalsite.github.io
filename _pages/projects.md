@@ -10,7 +10,11 @@ redirect_from:
 #Example: editing a markdown file for a talk
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
+**Some Gitlab projects can be found at**  
+<a href="http://lebucketmids.s3-website-us-east-1.amazonaws.com" target="_blank">Gitlab projects portfolio on a Zola website.</a>
+   
 
+<br>
 **Some companies I’ve collaborated with on projects**  
 Innovatrics, Slovakia   
 Diletta GmbH, Germany   
