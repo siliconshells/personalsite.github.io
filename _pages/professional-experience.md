@@ -7,9 +7,9 @@ redirect_from:
   # - /professional-experience/
   # - /professional-experience.html
 ---
-**Period:** July 2007 to date   
+**Period:** February 2007 to July 2024   
 **Institution:** Buck Press Limited (Ghana and Liberia)   
-**Position:** IT Manager  
+**Position:** Lead Software Engineer and Head of Information Technology  
 
 ---   
 Activities in this position include:   
