@@ -9,7 +9,7 @@ redirect_from:
 #Example: editing a markdown file for a talk
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
-I have many years of industry practice, heading sensitive national IT projects. I want to gain new and diverse experience in Software Engineering, Robotics and Data Science.
+I have many years of industry experience, heading sensitive national IT projects. I want to gain new and diverse experience in Software Engineering, Data Engineering, Data Science and Robotics.
 <!-- I want to focus on research in the next years of my career to contribute to the body of knowledge in IT and Engineering. -->
 
 Education
@@ -46,13 +46,13 @@ Languages and Operating Systems
 ------
 **Computer Languages** .  
 ***Proficient***  
-Microsoft .Net C#, Java, Spring Boot, ASP.Net, CSS, QL and the various variants (Pg, PL, Transact), Visual Basic.Net, Javascript
+Python, C#, Java, Spring Boot, ASP.Net, CSS, SQL, Visual Basic.Net, Javascript
 
 ***Advanced***  
-C/C++, Assembly, PHP, python and other languages when necessary
+C/C++, Assembly, PHP and other languages when necessary
 
 ***Beginner***  
-Reactjs, Nodejs, Angular, GraphQL, Flutter, TensorFlow 
+Reactjs, Nodejs, Angular, GraphQL, Flutter 
 
 **Human Languages**   
 ***Proficient***  

@@ -11,6 +11,8 @@ redirect_from:
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
 **Some Gitlab projects can be found at**  
+[<img src="../images/zola-logo.png">](http://lebucketmids.s3-website-us-east-1.amazonaws.com)
+
 <a href="http://lebucketmids.s3-website-us-east-1.amazonaws.com" target="_blank">Gitlab projects portfolio on a Zola website.</a>
    
 
