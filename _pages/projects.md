@@ -12,7 +12,7 @@ redirect_from:
 ---
 **Some Gitlab projects can be found at**  
 <a href="http://lebucketmids.s3-website-us-east-1.amazonaws.com/" target="_blank">
-    <img src="../images/zola-logo.png" width="557" height="409">
+    <img src="../images/zola-logo.png" width="277" height="204">
 </a>
 
 <a href="http://lebucketmids.s3-website-us-east-1.amazonaws.com" target="_blank">Gitlab projects portfolio on a Zola website.</a>
