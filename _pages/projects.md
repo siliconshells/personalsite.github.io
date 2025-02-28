@@ -10,7 +10,7 @@ redirect_from:
 #Example: editing a markdown file for a talk
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
-**Some Gitlab projects can be found at**  
+**Some Gitlab projects**  
 <a href="http://lebucketmids.s3-website-us-east-1.amazonaws.com/" target="_blank">
     <img src="../images/zola-logo.png" width="277" height="204">
 </a>
