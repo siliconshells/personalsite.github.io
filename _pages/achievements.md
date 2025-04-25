@@ -17,7 +17,7 @@ author_profile: true
 
 
 **Data Science Math Skills**    
-Issuing Organization: Coursera, by Duke University. Credential ID: 4392D9YDHLBM.    
+Issuing Organization: Coursera, by Duke University.    
 
 <p align="center">
   <img src="/images/duke_certificate_1.png" />
@@ -25,8 +25,19 @@ Issuing Organization: Coursera, by Duke University. Credential ID: 4392D9YDHLBM.
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/4392D9YDHLBM" target="_blank">Verify here</a>   
 
+**Python Programming Fundamentals**  
+Issuing Organization: Coursera, by Duke University.    
+
 <p align="center">
   <img src="/images/duke_certificate_2.png" />
 </p>
 
 <a href="https://coursera.org/verify/BPYYS2XQ3SB5" target="_blank">Verify here</a>
+
+
+**Databricks Fundamentals**    
+Issuing Organization: Databricks.      
+
+<p align="center">
+  <img src="/images/databricks_1.png" />
+</p>
