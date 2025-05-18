@@ -41,3 +41,13 @@ Issuing Organization: Databricks.
 <p align="center">
   <img src="/images/databricks_1.png" />
 </p>
+<a href="https://credentials.databricks.com/c2193323-7436-4548-81ed-b90560dce420#acc.R1JIEGKU" target="_blank">Verify here</a>   
+
+
+**Databricks Fundamentals**    
+Issuing Organization: Databricks.      
+
+<p align="center">
+  <img src="/images/aws-certified-cloud-practitioner.png" />
+</p>
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/c382200b7a5b4235947b8d45759d51da" target="_blank">Verify here</a>   
