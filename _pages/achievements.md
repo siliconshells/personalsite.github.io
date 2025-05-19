@@ -23,7 +23,7 @@ author_profile: true
   <img src="/images/duke_certificate_1.png" />
 </p>
 
-<a href="https://www.coursera.org/account/accomplishments/certificate/4392D9YDHLBM" target="_blank">Verify here</a>   
+Please <a href="https://www.coursera.org/account/accomplishments/certificate/4392D9YDHLBM" target="_blank">verify here</a>.   
 
 ----
 ## Python Programming Fundamentals
@@ -33,24 +33,24 @@ author_profile: true
   <img src="/images/duke_certificate_2.png" />
 </p>
 
-<a href="https://coursera.org/verify/BPYYS2XQ3SB5" target="_blank">Verify here</a>
+Please <a href="https://coursera.org/verify/BPYYS2XQ3SB5" target="_blank">verify here</a>.
 
 
 ----
 ## Databricks Fundamentals    
-**Issuing Organization:.** Databricks      
+**Issuing Organization:** Databricks      
 
 <p align="center">
   <img src="/images/databricks_1.png" />
 </p>
-<a href="https://credentials.databricks.com/c2193323-7436-4548-81ed-b90560dce420#acc.R1JIEGKU" target="_blank">Verify here</a>   
+Please <a href="https://credentials.databricks.com/c2193323-7436-4548-81ed-b90560dce420#acc.R1JIEGKU" target="_blank">verify here</a>.   
 
 
 ----
 ## AWS Cloud Practitioner    
-**Issuing Organization:.** Amazon Web Services Training and Certification      
+**Issuing Organization:** Amazon Web Services Training and Certification      
 
 <p align="center">
   <img src="/images/aws-certified-cloud-practitioner.png" />
 </p>
-<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/c382200b7a5b4235947b8d45759d51da" target="_blank">Verify here</a>   
+Please <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/c382200b7a5b4235947b8d45759d51da" target="_blank">Verify here</a>.   
