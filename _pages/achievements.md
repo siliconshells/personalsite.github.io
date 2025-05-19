@@ -53,4 +53,4 @@ Please <a href="https://credentials.databricks.com/c2193323-7436-4548-81ed-b9056
 <p align="center">
   <img src="/images/aws-certified-cloud-practitioner.png" />
 </p>
-Please <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/c382200b7a5b4235947b8d45759d51da" target="_blank">Verify here</a>.   
+Please <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/c382200b7a5b4235947b8d45759d51da" target="_blank">verify here</a>.   
