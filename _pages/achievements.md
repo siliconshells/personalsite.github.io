@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 
-### Data Science Math Skills
+## Data Science Math Skills
 **Issuing Organization:** Coursera, by Duke University.    
 
 <p align="center">
@@ -26,7 +26,7 @@ author_profile: true
 <a href="https://www.coursera.org/account/accomplishments/certificate/4392D9YDHLBM" target="_blank">Verify here</a>   
 
 ----
-### Python Programming Fundamentals
+## Python Programming Fundamentals
 **Issuing Organization:** Coursera, by Duke University.    
 
 <p align="center">
@@ -36,8 +36,9 @@ author_profile: true
 <a href="https://coursera.org/verify/BPYYS2XQ3SB5" target="_blank">Verify here</a>
 
 
+----
 ## Databricks Fundamentals    
-**Issuing Organization: Databricks.**      
+**Issuing Organization:.** Databricks      
 
 <p align="center">
   <img src="/images/databricks_1.png" />
@@ -45,8 +46,9 @@ author_profile: true
 <a href="https://credentials.databricks.com/c2193323-7436-4548-81ed-b90560dce420#acc.R1JIEGKU" target="_blank">Verify here</a>   
 
 
+----
 ## AWS Cloud Practitioner    
-**Issuing Organization: Amazon Web Services Training and Certification.**      
+**Issuing Organization:.** Amazon Web Services Training and Certification      
 
 <p align="center">
   <img src="/images/aws-certified-cloud-practitioner.png" />
