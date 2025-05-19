@@ -16,8 +16,8 @@ author_profile: true
 {% endfor %} -->
 
 
-## Data Science Math Skills
-**Issuing Organization: Coursera, by Duke University.**    
+**Data Science Math Skills**
+**Issuing Organization:** Coursera, by Duke University.    
 
 <p align="center">
   <img src="/images/duke_certificate_1.png" />
@@ -25,8 +25,9 @@ author_profile: true
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/4392D9YDHLBM" target="_blank">Verify here</a>   
 
-## Python Programming Fundamentals
-**Issuing Organization: Coursera, by Duke University.**    
+----
+**Python Programming Fundamentals**
+**Issuing Organization:** Coursera, by Duke University.    
 
 <p align="center">
   <img src="/images/duke_certificate_2.png" />
