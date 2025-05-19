@@ -44,8 +44,8 @@ Issuing Organization: Databricks.
 <a href="https://credentials.databricks.com/c2193323-7436-4548-81ed-b90560dce420#acc.R1JIEGKU" target="_blank">Verify here</a>   
 
 
-**Databricks Fundamentals**    
-Issuing Organization: Databricks.      
+**AWS Cloud Practitioner**    
+Issuing Organization: Amazon Web Services Training and Certification.      
 
 <p align="center">
   <img src="/images/aws-certified-cloud-practitioner.png" />
