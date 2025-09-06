@@ -3,10 +3,13 @@ main:
   - title: "Achievements"
     url: /
 
-  - title: "Projects"
-    url: /projects/
+  - title: "AI & Data Science Projects"
+    url: /ai-projects/
+
+  - title: "Other Projects"
+    url: /other-projects/
         
-  - title: "Professional Experience"
+  - title: "Experience"
     url: /professional-experience/ #/teaching/    
 
   - title: "Blog Posts"

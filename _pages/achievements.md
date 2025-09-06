@@ -23,7 +23,7 @@ redirect_from:
 **Issuing Organization:** Coursera, by Duke University.    
 
 <p align="center">
-  <img src="/images/duke_certificate_2.png"  width="300"/>
+  <img src="/images/duke_certificate_2.png"/>
 </p>
 
 Please <a href="https://coursera.org/verify/BPYYS2XQ3SB5" target="_blank">verify here</a>.
@@ -34,7 +34,7 @@ Please <a href="https://coursera.org/verify/BPYYS2XQ3SB5" target="_blank">verify
 **Issuing Organization:** Databricks      
 
 <p align="center">
-  <img src="/images/databricks_1.png" width="400"/>
+  <img src="/images/databricks_1.png"/>
 </p>
 Please <a href="https://credentials.databricks.com/c2193323-7436-4548-81ed-b90560dce420#acc.R1JIEGKU" target="_blank">verify here</a>.   
 
