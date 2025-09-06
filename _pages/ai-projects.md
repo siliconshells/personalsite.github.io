@@ -26,13 +26,13 @@ redirect_from:
     </div>
     <!-- Right Column (Description) -->
     <div style="flex: 1; display: flex;">
-      <p style="margin: 0; padding: 4px 0;">
+      <p style="margin: 0; padding: 4px 0;font-size: 15px;">
         This application uses Streamlit to create a web application that connects to an open source LLM, <strong>GPT2</strong>, hosted on Hugging Face to complete a sentence. It then uses <strong>sd-turbo</strong> to generate related image and <strong>toxic-bert</strong> to check for inappropriate content generation by the LLM. 
       </p>
     </div>
   </div>
   <div style="flex: 1; ">
-    <div style="text-align: right; margin-top: 3px;">
+    <div style="text-align: right; margin-top: 3px;font-size: 13px;">
     <a href="https://gitlab.com/dukeaiml/ids721-spring2025/Leonard_Eshun_Mini_Project_Eight" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
       View on GitLab →
     </a>
