@@ -1,11 +1,13 @@
 ---
-permalink: /experience/
+permalink: /professional-experience/
 title: "Professional Experience"
 excerpt: "Professional Experience"
 author_profile: true
-# redirect_from: 
-#   - /professional-experience/
-#   - /professional-experience.html
+redirect_from: 
+  # - /professional-experience/
+  # - /professional-experience.html
+
+---
 
 **Period:** May 2025 to Present   
 **Institution:** Duke Rhodes Information Initiative   
