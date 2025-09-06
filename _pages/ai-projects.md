@@ -57,7 +57,7 @@ redirect_from:
   <div style="display: flex;">
     <!-- Left Column (Title + Image + GitHub Link) -->
     <div style="flex: 0 0 200px; margin-right: 20px;">
-      <img src="/images/images/tmb_qdrantg.png" alt="Project Thumbnail" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #ddd;" />
+      <img src="/images/tmb_qdrantg.png" alt="Project Thumbnail" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #ddd;" />
     </div>
     <!-- Right Column (Description) -->
     <div style="flex: 1; display: flex;">
