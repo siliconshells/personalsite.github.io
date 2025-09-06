@@ -1,7 +1,7 @@
 ---
 permalink: /professional-experience/
-title: "Experience"
-excerpt: "Experience"
+title: "Professional Experience"
+excerpt: "Professional Experience"
 author_profile: true
 redirect_from: 
   - /professional-experience/
