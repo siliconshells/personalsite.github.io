@@ -23,14 +23,14 @@ redirect_from:
 
   <!-- Right Column (Description) -->
   <div style="flex: 1; display: flex; align-items: center;">
-    <table style="width: 100%; height: 100%; margin: 0; border-collapse: collapse; border: none; border-color: transparent;">
-      <tr style="border: none; border-color: transparent; height: 100%;">
-        <td style="padding: 4px 0;">
+    <table style="width: 100%; height: 100%; margin: 0; border-collapse: collapse; border: none; border-width: 0px;">
+      <tr style="border-collapse: collapse; border: none; border-width: 0px; height: 100%;">
+        <td style="border-collapse: collapse; border: none; border-width: 0px; padding: 4px 0;">
         A short description of what the project does, technologies used, and why it’s interesting. Keeping it to 2–3 sentences max so the card stays compact.
         </td>
       </tr>
-      <tr>
-        <td style="padding: 0px 0;">
+      <tr style="border-collapse: collapse; border: none; border-width: 0px;">
+        <td style="border-collapse: collapse; border: none; border-width: 0px; padding: 0px 0;">
           <div style="text-align: right; margin-top: 3px;">
             <a href="https://github.com/username/project-repo" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
               View on GitHub →
