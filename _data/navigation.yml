@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "About Me"
-    url: /
-
-  - title: "Professional Experience"
-    url: /professional-experience/ #/teaching/    
+  - title: "Achievements"
+    url: /achievements/
 
   - title: "Projects"
     url: /projects/
-    
-  - title: "Achievements"
-    url: /achievements/
         
+  - title: "Professional Experience"
+    url: /professional-experience/ #/teaching/    
+
   - title: "Blog Posts"
     url: /blog-posts/
+
+  - title: "About Me"
+    url: /

@@ -54,3 +54,45 @@ Please <a href="https://credentials.databricks.com/c2193323-7436-4548-81ed-b9056
   <img src="/images/aws-certified-cloud-practitioner.png" />
 </p>
 Please <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/c382200b7a5b4235947b8d45759d51da" target="_blank">verify here</a>.   
+
+----
+## AWS Cloud Practitioner    
+**Issuing Organization:** Amazon Web Services Training and Certification      
+
+<p align="center">
+  <img src="/images/aws-certified-cloud-practitioner.png" />
+</p>
+Please <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/c382200b7a5b4235947b8d45759d51da" target="_blank">verify here</a>.   
+
+----
+## Lab - Analyze and Prepare Data with Amazon SageMaker Data Wrangler and Amazon EMR    
+**Issuing Organization:** Amazon Web Services Training and Certification      
+
+<p align="center">
+  <img src="/images/Sagemaker.png" />
+</p>
+  
+----
+## Introducing Generative Al with AWS    
+**Issuing Organization:** Udacity      
+
+<p align="center">
+  <img src="/images/Intro_To_GenAI.png" />
+</p>
+  
+----
+## Fundamentals of Machine Learning and Artificial Intelligence    
+**Issuing Organization:** Amazon Web Services Training and Certification      
+
+<p align="center">
+  <img src="/images/ML_Foundation.png" />
+</p>
+    
+----
+## AWS ML Engineer Associate 1.3 Validate Data and Prepare for Modeling    
+**Issuing Organization:** Amazon Web Services Training and Certification      
+
+<p align="center">
+  <img src="/images/ML_Associate.png" />
+</p>
+  
