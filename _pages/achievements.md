@@ -3,6 +3,9 @@ layout: archive
 title: "Achievements"
 permalink: /
 author_profile: true
+redirect_from: 
+  - /achievements/
+  - /achievements.html
 ---
 
 <!-- {% if site.talkmap_link == true %}
