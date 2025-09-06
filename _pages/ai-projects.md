@@ -34,7 +34,7 @@ redirect_from:
     <!-- Right Column (Description) -->
     <div style="flex: 1; display: flex;">
       <p style="margin: 0; padding: 4px 0;font-size: 15px;">
-        This application uses Streamlit to create a web application that connects to an open source LLM, <strong>GPT2</strong>, hosted on Hugging Face to complete a sentence. It then uses <strong>sd-turbo</strong> to generate related image and <strong>toxic-bert</strong> to check for inappropriate content generation by the LLM. 
+        This application uses Streamlit to create a web application that connects to an open source LLM, <strong>GPT2</strong>, hosted on Hugging Face to complete a sentence. It then uses <strong>sd-turbo</strong> to generate related image and <strong>toxic-bert</strong> to check for inappropriate content generation by the LLM. CI/CD was used to push the code to <strong>AWS EC2 instance</strong> hosting the application.
       </p>
     </div>
   </div>
@@ -62,7 +62,7 @@ redirect_from:
     <!-- Right Column (Description) -->
     <div style="flex: 1; display: flex;">
       <p style="margin: 0; padding: 4px 0;font-size: 15px;">
-        This application was written in Rust and containerized with <strong>Docker</strong> using the Amazon Linux 2023 base image during the <strong>CI/CD</strong> process setup for this project in GitHub. The image was pushed to <strong>Amazon Elastic Container Registry</strong> and used to create a <strong>Lambda function with an API gateway</strong> to serve the search function. Its main function is to connect to a <strong>Qdrant vector database</strong> and do a vector search using the text provided to the api. It would return a result of records containing semantically similar words. The vector database was populated with information on movies from a <strong>jsonl</strong> file and the embeddings were automatically created.
+        This application was written in Rust and containerized with <strong>Docker</strong> using the Amazon Linux 2023 base image during the <strong>CI/CD</strong> process in GitLab. The image was pushed to <strong>Amazon Elastic Container Registry</strong> and used to create a <strong>Lambda function with an API gateway</strong> to serve the search function. Its main function is to connect to a <strong>Qdrant vector database</strong> and do a vector search using the text provided to the api. It would return records containing semantically similar words. The vector database was populated with information on movies from a <strong>jsonl</strong> file and the embeddings were automatically created.
       </p>
     </div>
   </div>
