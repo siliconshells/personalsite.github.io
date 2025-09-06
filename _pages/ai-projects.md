@@ -10,8 +10,8 @@ redirect_from:
 #Example: editing a markdown file for a talk
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
-**I am currently curating this list. Please find my GitHub page on the left pane.**    
-**At GitHub, you'll also find a pinned project with a list of my GitLab projects.**  
+*I am currently curating this list. Please find my GitHub page on the left pane.*    
+*At GitHub, you'll also find a pinned project with a list of my GitLab projects.*  
 
 
 <div style="display: flex; flex-direction: column; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px;">
@@ -23,7 +23,7 @@ redirect_from:
   <div style="display: flex;">
     <!-- Left Column (Title + Image + GitHub Link) -->
     <div style="flex: 0 0 200px; margin-right: 20px;">
-      <img src="/images/tmb_streamlit_on_aws.png" alt="Project Thumbnail" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #ccc;" />
+      <img src="/images/tmb_streamlit_on_aws.png" alt="Project Thumbnail" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #ddd;" />
     </div>
     <!-- Right Column (Description) -->
     <div style="flex: 1; display: flex;">
