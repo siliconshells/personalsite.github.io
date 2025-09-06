@@ -28,14 +28,23 @@ redirect_from:
 
   <!-- Right Column (Description) -->
   <div style="flex: 1; display: flex; align-items: center;">
-    <p style="margin: 0;">
-      A short description of what the project does, technologies used, and why it’s interesting. Keeping it to 2–3 sentences max so the card stays compact.
-    </p>
-    <div style="text-align: right; margin-top: 10px;">
-      <a href="https://github.com/username/project-repo" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
-        View on GitHub →
-      </a>
-    </div>
+    <table style="width: 100%; margin: 0; border-collapse: collapse;">
+      <tr>
+        <td style="padding: 4px 0;">
+        A short description of what the project does, technologies used, and why it’s interesting. Keeping it to 2–3 sentences max so the card stays compact.
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 0px 0;">
+          <div style="text-align: right; margin-top: 3px;">
+            <a href="https://github.com/username/project-repo" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
+              View on GitHub →
+            </a>
+          </div>
+        </td>
+      </tr>
+    </table>
+
   </div>
 </div>
 
@@ -43,26 +52,7 @@ redirect_from:
 
 ---
 
-<div style="display: flex; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px;">
-  
-  <!-- Left Column (Title + Image) -->
-  <div style="flex: 0 0 200px; margin-right: 20px;">
-    <h3 style="margin: 0 0 12px 0;">My Project Title</h3>
-    <img src="/images/arduino.jpg" alt="Project Thumbnail" style="width: 100%; height: auto; border-radius: 6px;">
-  </div>
 
-  <!-- Right Column (Description + GitHub Link) -->
-  <div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between;">
-    <p style="margin: 0;">
-      A short description of what the project does, technologies used, and why it’s interesting. Keep it 2–3 sentences so the card remains compact and balanced.
-    </p>
-    <div style="text-align: right; margin-top: 10px;">
-      <a href="https://github.com/username/project-repo" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
-        View on GitHub →
-      </a>
-    </div>
-  </div>
-</div>
 
 ---
 
