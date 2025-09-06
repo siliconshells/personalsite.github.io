@@ -10,8 +10,14 @@ redirect_from:
 #Example: editing a markdown file for a talk
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
-*I am currently curating this list. Please find my GitHub page on the left pane.*    
-*At GitHub, you'll also find a pinned project with a list of my GitLab projects.*  
+*I am currently curating this list. Please find my GitHub and GitLab projects below:*    
+<a href="https://github.com/siliconshells/GITLAB_Projects" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
+  GitLab Projects →
+</a>
+<br >
+<a href="https://github.com/siliconshells" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
+  GitHub Projects →
+</a>
 
 
 <div style="display: flex; flex-direction: column; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px;">
