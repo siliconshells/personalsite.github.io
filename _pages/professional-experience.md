@@ -8,7 +8,7 @@ redirect_from:
   # - /professional-experience.html
 
 **Period:** May 2025 to Present   
-**Institution:** Duke University   
+**Institution:** Duke Rhodes Information Initiative   
 **Position:** Data Science Fellow (Graduate Assistant)     
 
 ---   
