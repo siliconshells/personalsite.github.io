@@ -20,7 +20,7 @@ redirect_from:
 </a>
 
 
-<div style="display: flex; flex-direction: column; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #fcf6f6ff;">
+<div style="display: flex; flex-direction: column; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #fbf8f8ff;">
   
   <div style="flex: 1; ">
     <h3 style="margin: 0 0 12px 0;">Integration of LLM into an application</h3>
@@ -48,7 +48,7 @@ redirect_from:
 </div>
 
 
-<div style="display: flex; flex-direction: column; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #f6f4feff;">
+<div style="display: flex; flex-direction: column; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #f8f7fcff;">
   
   <div style="flex: 1; ">
     <h3 style="margin: 0 0 12px 0;">Text Search with Vector Databases</h3>
