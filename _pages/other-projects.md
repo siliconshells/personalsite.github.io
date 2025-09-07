@@ -15,7 +15,7 @@ Gitlab projects portfolio written with Zola and hosted on AWS S3. Updates to the
 <a href="http://lebucketmids.s3-website-us-east-1.amazonaws.com/" target="_blank">
     <img src="../images/zola-logo.png" width="277" height="204">
 </a>
-   
+<br >   
 
 **Playing with my Arduino Uno R4 Wifi**  
 I enjoy working with the Arduino board which also has the versatile ESP32 chip on board. It's a joy to work at the interface of hardware and software and try the different things you can turn a microprocessor into through software.
@@ -23,6 +23,7 @@ I enjoy working with the Arduino board which also has the versatile ESP32 chip o
 <p align="center">
   <img src="/images/arduino.jpg" />
 </p>
+<br >   
 
 **Mobile Biometric Data Enrolment Unit**  
 
