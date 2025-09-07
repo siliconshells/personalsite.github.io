@@ -18,17 +18,17 @@ focused solutions. Known to be curious, adaptable, and collaborative, with a com
 
 Education
 ------
-2024 - 2026 &nbsp;&nbsp;&nbsp;&nbsp;       Duke University  
+2024 - 2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       Duke University  
 MSc. Interdisciplinary Data Science (underway)  
 
-2016 – 2018 &nbsp;&nbsp;&nbsp;&nbsp;       Virginia Polytechnic Institute and State University (VirginiaTech)  
+2016 – 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       Virginia Polytechnic Institute and State University (VirginiaTech)  
 MIT. Information Technology  
 
-2001 – 2005 &nbsp;&nbsp;&nbsp;&nbsp;      Kwame Nkrumah University of Science and Technology, Ghana  
+2001 – 2005 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      Kwame Nkrumah University of Science and Technology, Ghana  
 BSc. Computer Engineering   
 
 
-Other Ongoing Training & Learning  
+Ongoing Training & Learning  
 ------
 Self Learning: AWS Machine Learning Associate certification    
 Udacity: AWS-sponsored AI Scientist Nanodegree    
