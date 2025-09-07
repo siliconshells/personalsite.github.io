@@ -15,27 +15,30 @@ that enhance performance, efficiency, and security. Passionate about applying AI
 focused solutions. Known to be curious, adaptable, and collaborative, with a commitment to continuous learning.
 <!-- I want to focus on research in the next years of my career to contribute to the body of knowledge in IT and Engineering. -->
 
+
 Education
 ------
 2024 - 2026       Duke University  
-2016 – 2018       Virginia Polytechnic Institute and State University (VirginiaTech)  
-2001 – 2005       Kwame Nkrumah University of Science and Technology, Ghana  
-1997 – 1999       Ghana Secondary Technical School, Ghana
+MSc. Interdisciplinary Data Science (underway)  
 
-**Certificates**  
-MSc. Interdisciplinary Data Science from Duke University (underway)  
-MIT. Information Technology from VirginiaTech (1st Class), U.S.A.  
-BSc. Computer Engineering (Second Class Honours, Upper Division) from K.N.U.S.T.  
+2016 – 2018       Virginia Polytechnic Institute and State University (VirginiaTech)  
+MIT. Information Technology  
+
+2001 – 2005       Kwame Nkrumah University of Science and Technology, Ghana  
+BSc. Computer Engineering   
+
+
+Other Ongoing Training & Learning  
+------
+Self Learning: AWS Machine Learning Associate certification
+Udacity: AWS-sponsored AI Scientist
+AWS Cloud Institute: Cloud Application Developer track (Summer 2025 Cohort)
 
 
 Professional Membership
 ------
 Institute of Electrical and Electronic Engineers  
 National Society of Black Engineers 
-
-
-Other Membership
-------
 Turing Engineer (Turing.com) – July 2022  
 
 
@@ -44,29 +47,24 @@ Languages and Operating Systems
 **Computer Languages and Frameworks** .  
 Python, C#, Java, Spring Boot, ASP.Net, CSS, SQL, Javascript
 C/C++, Assembly, PHP and other languages when necessary
-React, Nodejs, GraphQL 
-
+React, Nodejs, GraphQL   
 
 **Human Languages**   
-***Proficient***  
-Fante, English, Twi
-
-
+Fante, English, Twi   
 
 **Operating Systems Experience and Application development**  
-Windows Desktop, Windows Server, Linux, Mac OS, Android, IOS  
+Windows Desktop, Windows Server, Linux, Mac OS, Android, IOS   
 
 
-
-Some hardware I’ve integrated, using their SDKs 
+Some hardware I’ve integrated, using their SDKs  
 ------
-Canon Cameras  
-Thales/Greenbit Fingerprint Scanners  
-Futronic Fingerprint scanners  
-Suprema Fingerprint Scanners   
-Wacom Signature Pad	  
-Topaz Signature Pad  
-Desko Passport Readers   
-Star Receipt Printers   
-NXP ePassport Chip   
+- Canon Cameras  
+- Thales/Greenbit Fingerprint Scanners  
+- Futronic Fingerprint scanners  
+- Suprema Fingerprint Scanners   
+- Wacom Signature Pad	  
+- Topaz Signature Pad  
+- Desko Passport Readers   
+- Star Receipt Printers   
+- NXP ePassport Chip   
   
