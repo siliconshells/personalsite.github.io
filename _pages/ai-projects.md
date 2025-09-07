@@ -20,10 +20,10 @@ redirect_from:
 </a>
 
 
-<div style="display: flex; flex-direction: column; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px;">
+<div style="display: flex; flex-direction: column; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #fce9e9ff;">
   
   <div style="flex: 1; ">
-    <h3 style="margin: 0 0 12px 0;">Integration of an LLM into an application.</h3>
+    <h3 style="margin: 0 0 12px 0;">Integration of LLM into an application</h3>
   </div>
 
   <div style="display: flex;">
@@ -34,7 +34,7 @@ redirect_from:
     <!-- Right Column (Description) -->
     <div style="flex: 1; display: flex;">
       <p style="margin: 0; padding: 4px 0;font-size: 15px;">
-        This application uses Streamlit to create a web application that connects to an open source LLM, <strong>GPT2</strong>, hosted on Hugging Face to complete a sentence. It then uses <strong>sd-turbo</strong> to generate related image and <strong>toxic-bert</strong> to check for inappropriate content generation by the LLM. CI/CD was used to push the code to <strong>AWS EC2 instance</strong> hosting the application.
+        I used Python and  Streamlit to create a web application that connects to <strong>OpenAI's GPT2</strong>, hosted on Hugging Face to complete a sentence. It then uses <strong>SD-Turbo</strong> to generate a related image and <strong>Toxic-BERT</strong> to check for inappropriate content generation by the LLM. GitHub CI/CD was used to push the code to an <strong>AWS EC2 instance</strong> hosting the application.
       </p>
     </div>
   </div>
@@ -48,10 +48,10 @@ redirect_from:
 </div>
 
 
-<div style="display: flex; flex-direction: column; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px;">
+<div style="display: flex; flex-direction: column; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #d4cefcff;">
   
   <div style="flex: 1; ">
-    <h3 style="margin: 0 0 12px 0;">Text Search with Vector Databases.</h3>
+    <h3 style="margin: 0 0 12px 0;">Text Search with Vector Databases</h3>
   </div>
 
   <div style="display: flex;">
@@ -62,13 +62,13 @@ redirect_from:
     <!-- Right Column (Description) -->
     <div style="flex: 1; display: flex;">
       <p style="margin: 0; padding: 4px 0;font-size: 15px;">
-        This application was written in Rust and containerized with <strong>Docker</strong> using the Amazon Linux 2023 base image during the <strong>CI/CD</strong> process in GitLab. The image was pushed to <strong>Amazon Elastic Container Registry</strong> and used to create a <strong>Lambda function with an API gateway</strong> to serve the search function. Its main function is to connect to a <strong>Qdrant vector database</strong> and do a vector search using the text provided to the api. It would return records containing semantically similar words. The vector database was populated with information on movies from a <strong>jsonl</strong> file and the embeddings were automatically created.
+        Written in Rust and containerized with <strong>Docker</strong> using the Amazon Linux 2023 base image during the <strong>CI/CD</strong> process in GitLab. The image was pushed to <strong>Amazon Elastic Container Registry</strong> and used to create a <strong>Lambda function with an API gateway</strong> to serve the search function. Its main function is to connect to a <strong>Qdrant vector database</strong> and do a vector search using the text provided to the API. It returns records containing semantically similar words. The vector database was populated with information on movies from a <strong>JSONL</strong> file, and the embeddings were created with Cohere’s Embed API.
       </p>
     </div>
   </div>
   <div style="flex: 1; ">
     <div style="text-align: right; margin-top: 3px;font-size: 13px;">
-    <a href="https://gitlab.com/dukeaiml/ids721-spring2025/Leonard_Eshun_Mini_Project_Eight" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
+    <a href="https://gitlab.com/dukeaiml/ids721-spring2025/leonard_eshun_mini_project_five" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
       View on GitLab →
     </a>
   </div>  
