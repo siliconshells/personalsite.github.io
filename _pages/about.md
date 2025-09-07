@@ -38,7 +38,7 @@ AWS Cloud Institute: Cloud Application Developer track (Summer 2025 Cohort)
 Professional Membership
 ------
 Institute of Electrical and Electronic Engineers  
-National Society of Black Engineers 
+National Society of Black Engineers     
 Turing Engineer (Turing.com) – July 2022  
 
 
