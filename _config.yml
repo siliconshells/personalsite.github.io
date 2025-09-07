@@ -82,9 +82,9 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : " "
   avatar           : "profile_pic.jpg"
-  bio              : "I am an engineer with love and excitement for research in diverse fields in AI, Data Science, Computer Science and Engineering."
+  bio              : "Results-driven and detail-oriented data science graduate student with a strong foundation in data engineering, cloud computing, software engineering, and IT infrastructure. Passionate about applying AI to develop innovative, reliable, and user-focused solutions."
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
