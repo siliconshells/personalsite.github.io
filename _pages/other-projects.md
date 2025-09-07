@@ -11,10 +11,11 @@ redirect_from:
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
 **Gitlab projects**  
-Gitlab projects portfolio written with Zola and hosted on AWS S3. Updates to the website are done through GitLab CI/CD. Click on the image below to visit the site.    
+Gitlab projects portfolio written with Zola and hosted on AWS S3. Updates to the website are done through GitLab CI/CD. Click on the thumbnail below to visit the site.    
 <a href="http://lebucketmids.s3-website-us-east-1.amazonaws.com/" target="_blank">
     <img src="../images/zola-logo.png" width="277" height="204">
 </a>
+<br >   
 <br >   
 
 **Playing with my Arduino Uno R4 Wifi**  
