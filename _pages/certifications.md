@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Achievements"
+title: "Certifications"
 permalink: /
 author_profile: true
 redirect_from: 
-  - /achievements/
-  - /achievements.html
+  - /Certifications/
+  - /Certifications.html
 ---
 
 <!-- {% if site.talkmap_link == true %}
