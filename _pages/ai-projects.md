@@ -14,8 +14,6 @@ redirect_from:
 <a href="https://github.com/siliconshells/GITLAB_Projects" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: semi-bold; font-size: 15px;">
   GitLab Projects →
 </a>
-<br >
-
 <a href="https://github.com/siliconshells" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: semi-bold; font-size: 15px;">
   GitHub Projects →
 </a>
@@ -44,8 +42,8 @@ redirect_from:
   </div>
   <div style="flex: 1; ">
     <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 3px;font-size: 13px;">
-      <a href="https://langgraph-rag.leonardeshun.com" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
-        Live Demo →
+      <a href="https://langgraph-rag.leonardeshun.com" target="_blank" style="color: #0955abff; text-decoration: none; font-weight: bold;">
+        Live Demonstration →
       </a>
       <a href="https://github.com/siliconshells/langchain_RAG" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
         View on GitHub →
