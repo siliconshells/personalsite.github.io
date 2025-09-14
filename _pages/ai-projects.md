@@ -11,11 +11,12 @@ redirect_from:
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
 *I am currently curating this list. Please find my GitHub and GitLab projects at:*    
-<a href="https://github.com/siliconshells/GITLAB_Projects" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: semi-bold; font-size: 15px;">
+- <a href="https://github.com/siliconshells/GITLAB_Projects" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: semi-bold; font-size: 15px;">
   GitLab Projects →
 </a>
 <br >
-<a href="https://github.com/siliconshells" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: semi-bold; font-size: 15px;">
+
+- <a href="https://github.com/siliconshells" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: semi-bold; font-size: 15px;">
   GitHub Projects →
 </a>
 
