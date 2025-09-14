@@ -35,9 +35,8 @@ redirect_from:
       <p style="margin: 0; padding: 4px 0;font-size: 15px;">
         This project demonstrates a <strong>LangGraph</strong> pipeline served with <strong>FastAPI + Strawberry GraphQL</strong>, integrated with vector search in <strong>Pinecone</strong>. A crawler scans my website to collect all accessible links, and the contents are loaded and chunked for efficient processing by the models. Embeddings are then generated from these chunks and stored in Pinecone for later retrieval.    
         <br>
-        When a user enters a question in the <strong>Flask</strong> frontend, it is sent to the <strong>FastAPI GraphQL</strong> backend, which triggers the execution of the <strong>LangGraph</strong> pipeline. An embedding is created from the question, and a similarity search is performed in Pinecone to find semantically related text.
+        When a user enters a question in the <strong>Flask</strong> frontend, it is sent to the <strong>FastAPI GraphQL</strong> backend, which triggers the execution of the <strong>LangGraph</strong> pipeline. An embedding is created from the question, and a similarity search is performed in Pinecone to find semantically related text. This context is combined with the question to form a prompt for <strong>Google's Gemini Flash</strong> chat model. The answer is returned through the same pipeline and displayed to the user.   
         <br>
-        This context is combined with the question to form a prompt for <strong>Google's Gemini Flash</strong> chat model. The answer is returned through the same pipeline and displayed to the user.    
         The RAG application is designed to be adaptable: it can work with any website by changing the target domain in the GitHub code, and it can be extended to other data sources by modifying the loader.    
       </p>  
     </div>
@@ -97,7 +96,9 @@ redirect_from:
     <!-- Right Column (Description) -->
     <div style="flex: 1; display: flex;">
       <p style="margin: 0; padding: 4px 0;font-size: 15px;">
-        Written in Rust and containerized with <strong>Docker</strong> using the Amazon Linux 2023 base image during the <strong>CI/CD</strong> process in GitLab. The image was pushed to <strong>Amazon Elastic Container Registry</strong> and used to create a <strong>Lambda function with an API gateway</strong> to serve the search function. Its main function is to connect to a <strong>Qdrant vector database</strong> and do a vector search using the text provided to the API. It returns records containing semantically similar words. The vector database was populated with information on movies from a <strong>JSONL</strong> file, and the embeddings were created with Cohere’s Embed API.
+        Written in Rust and containerized with <strong>Docker</strong> using the Amazon Linux 2023 base image during the <strong>CI/CD</strong> process in GitLab. The image was pushed to <strong>Amazon Elastic Container Registry</strong> and used to create a <strong>Lambda function with an API gateway</strong> to serve the search function. Its main function is to connect to a <strong>Qdrant vector database</strong> and do a vector search using the text provided to the API. It returns records containing semantically similar words. 
+        <br>
+        The vector database was populated with information on movies from a <strong>JSONL</strong> file, and the embeddings were created with Cohere’s Embed API.
       </p>
     </div>
   </div>
