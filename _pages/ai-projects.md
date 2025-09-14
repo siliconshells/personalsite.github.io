@@ -42,7 +42,7 @@ redirect_from:
     </div>
   </div>
   <div style="flex: 1; ">
-    <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 3px;font-size: 13px;">
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 3px;font-size: 15px;">
       <a href="https://langgraph-rag.leonardeshun.com" target="_blank" style="color: #0955abff; text-decoration: none; font-weight: bold;">
         Live Demonstration →
       </a>
@@ -73,7 +73,7 @@ redirect_from:
     </div>
   </div>
   <div style="flex: 1; ">
-    <div style="text-align: right; margin-top: 3px;font-size: 13px;">
+    <div style="text-align: right; margin-top: 3px;font-size: 15px;">
       <a href="https://gitlab.com/dukeaiml/ids721-spring2025/Leonard_Eshun_Mini_Project_Eight" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
         View on GitLab →
       </a>
@@ -103,7 +103,7 @@ redirect_from:
     </div>
   </div>
   <div style="flex: 1; ">
-    <div style="text-align: right; margin-top: 3px;font-size: 13px;">
+    <div style="text-align: right; margin-top: 3px;font-size: 15px;">
     <a href="https://gitlab.com/dukeaiml/ids721-spring2025/leonard_eshun_mini_project_five" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
       View on GitLab →
     </a>
