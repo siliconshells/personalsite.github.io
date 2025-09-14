@@ -20,7 +20,7 @@ redirect_from:
 </a>
 
 
-<div style="display: flex; flex-direction: column; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #f7ddfcff;">
+<div style="display: flex; flex-direction: column; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #f9ebfcff;">
   
   <div style="flex: 1; ">
     <h3 style="margin: 0 0 12px 0;">A RAG Application using LangGraph</h3>
@@ -47,6 +47,7 @@ redirect_from:
       View on GitHub →
     </a>
   </div>  
+</div>
 </div>
 
 
@@ -75,6 +76,9 @@ redirect_from:
     </a>
   </div>  
 </div>
+<div>
+</div>
+
 
 
 <div style="display: flex; flex-direction: column; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #f8f7fcff;">
@@ -101,6 +105,4 @@ redirect_from:
       View on GitLab →
     </a>
   </div>  
-</div>
-
 </div>
