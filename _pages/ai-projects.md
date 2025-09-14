@@ -20,7 +20,7 @@ redirect_from:
 </a>
 
 
-<div style="display: flex; flex-direction: column; border: 1px solid #2a61c7ff; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px;">
+<div style="display: flex; flex-direction: column; border: 1px solid #6c85b4ff; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px;">
   
   <div style="flex: 1; ">
     <h3 style="margin: 0 0 12px 0;">A RAG Application using LangGraph</h3>
@@ -51,7 +51,7 @@ redirect_from:
 </div>
 
 
-<div style="display: flex; flex-direction: column; border: 1px solid #2a61c7ff; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px;">
+<div style="display: flex; flex-direction: column; border: 1px solid #6c85b4ff; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px;">
   
   <div style="flex: 1; ">
     <h3 style="margin: 0 0 12px 0;">Integration of LLM into an application</h3>
@@ -79,7 +79,7 @@ redirect_from:
 </div>
 
 
-<div style="display: flex; flex-direction: column; border: 1px solid #2a61c7ff; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; ">
+<div style="display: flex; flex-direction: column; border: 1px solid #6c85b4ff; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; ">
   
   <div style="flex: 1; ">
     <h3 style="margin: 0 0 12px 0;">Text Search with Vector Databases</h3>
