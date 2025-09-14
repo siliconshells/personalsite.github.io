@@ -34,7 +34,9 @@ redirect_from:
     <div style="flex: 1; display: flex;">
       <p style="margin: 0; padding: 4px 0;font-size: 15px;">
         This project demonstrates a <strong>LangGraph</strong> pipeline served with <strong>FastAPI + Strawberry GraphQL</strong>, integrated with vector search in <strong>Pinecone</strong>. A crawler scans my website to collect all accessible links, and the contents are loaded and chunked for efficient processing by the models. Embeddings are then generated from these chunks and stored in Pinecone for later retrieval.    
-        <p>When a user enters a question in the <strong>Flask</strong> frontend, it is sent to the <strong>FastAPI GraphQL</strong> backend, which triggers the execution of the <strong>LangGraph</strong> pipeline. An embedding is created from the question, and a similarity search is performed in Pinecone to find semantically related text.</p>
+        <br>
+        When a user enters a question in the <strong>Flask</strong> frontend, it is sent to the <strong>FastAPI GraphQL</strong> backend, which triggers the execution of the <strong>LangGraph</strong> pipeline. An embedding is created from the question, and a similarity search is performed in Pinecone to find semantically related text.
+        <br>
         This context is combined with the question to form a prompt for <strong>Google's Gemini Flash</strong> chat model. The answer is returned through the same pipeline and displayed to the user.    
         The RAG application is designed to be adaptable: it can work with any website by changing the target domain in the GitHub code, and it can be extended to other data sources by modifying the loader.    
       </p>  
