@@ -43,7 +43,10 @@ redirect_from:
     </div>
   </div>
   <div style="flex: 1; ">
-    <div style="text-align: right; margin-top: 3px;font-size: 13px;">
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 3px;font-size: 13px;">
+      <a href="https://langgraph-rag.leonardeshun.com" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
+        Live Demo →
+      </a>
       <a href="https://github.com/siliconshells/langchain_RAG" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
         View on GitHub →
       </a>
