@@ -10,7 +10,7 @@ redirect_from:
 #Example: editing a markdown file for a talk
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
-*I am currently curating this list. Please find my GitHub and GitLab projects below:*    
+*I am currently curating this list. Please find my GitHub and GitLab projects at:*    
 <a href="https://github.com/siliconshells/GITLAB_Projects" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: semi-bold; font-size: 15px;">
   GitLab Projects →
 </a>
@@ -34,10 +34,10 @@ redirect_from:
     <!-- Right Column (Description) -->
     <div style="flex: 1; display: flex;">
       <p style="margin: 0; padding: 4px 0;font-size: 15px;">
-        This project shows a <strong>LangGraph</strong> pipeline served via <strong>FastAPI + Strawberry GraphQL</strong> with vector search in <strong>Pinecone</strong>. A crawler crawls my website to get all the loadable links. Then the contents of the links are loaded and chunked for easier processing by the models. Embedding are created from the chunks and stored in Pinecone for later retrieval.    
-        The question is entered into the <strong>Flask</strong> frontend application. It's sent to the <strong>FastAPI GraphQL</strong> backend which calls the function to start executing the steps of the <strong>LangGraph</strong>. An embedding is created from the question and a similarity search done in <strong>Pinecone</strong> to find semantically related text to the question.    
-        This is the context, and it is added to the question to create a prompt for <strong>Google's Gemini Flash</strong> chat model. The answer is returned through the same pipeline and displayed on the <strong>Flask Frontend</strong> application.    
-        This RAG application can be used for any website. Just change the website in the code on GitHub. It can also be adapted for other data sources by changing the loader.
+        This project shows a <strong>LangGraph</strong> pipeline served with <strong>FastAPI + Strawberry GraphQL</strong> with vector search in <strong>Pinecone</strong>. A crawler crawls my website to get all loadable links. The contents are loaded and chunked for easier processing by the models. Embeddings are created from the chunks and stored in Pinecone for later retrieval.    
+        A question is entered into the <strong>Flask</strong> frontend application. It's sent to the <strong>FastAPI GraphQL</strong> backend which calls the function to start executing the steps of the <strong>LangGraph</strong>. An embedding is created from the question and a similarity search done in Pinecone to find semantically related text to the question.    
+        This is the context, and it is added to the question to create a prompt for <strong>Google's Gemini Flash</strong> chat model. The answer is returned through the same pipeline and displayed to the user.    
+        This RAG application can be used for any website by changing the website in the code on GitHub. It can also be adapted for other data sources by changing the loader.
       </p>  
     </div>
   </div>
