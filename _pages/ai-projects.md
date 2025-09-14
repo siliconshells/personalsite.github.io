@@ -13,7 +13,7 @@ redirect_from:
 *I am currently curating this list. Please find my GitHub and GitLab projects at:*    
 <a href="https://github.com/siliconshells/GITLAB_Projects" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: semi-bold; font-size: 15px;">
   GitLab Projects →
-</a>
+</a>            
 <a href="https://github.com/siliconshells" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: semi-bold; font-size: 15px;">
   GitHub Projects →
 </a>
