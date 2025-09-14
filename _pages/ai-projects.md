@@ -20,6 +20,36 @@ redirect_from:
 </a>
 
 
+<div style="display: flex; flex-direction: column; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #f7ddfcff;">
+  
+  <div style="flex: 1; ">
+    <h3 style="margin: 0 0 12px 0;">A RAG Application using LangGraph</h3>
+  </div>
+
+  <div style="display: flex;">
+    <!-- Left Column (Title + Image + GitHub Link) -->
+    <div style="flex: 0 0 200px; margin-right: 20px;">
+      <img src="/images/main_app.png" alt="Project Thumbnail" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #ddd;" />
+    </div>
+    <!-- Right Column (Description) -->
+    <div style="flex: 1; display: flex;">
+      <p style="margin: 0; padding: 4px 0;font-size: 15px;">
+        This project shows a <strong>LangGraph</strong> pipeline served via <strong>FastAPI + Strawberry GraphQL</strong> with vector search in <strong>Pinecone</strong>. A crawler crawls my website to get all the loadable links. Then the contents of the links are loaded and chunked for easier processing by the models. Embedding are created from the chunks and stored in Pinecone for later retrieval.    
+        The question is entered into the <strong>Flask</strong> frontend application. It's sent to the <strong>FastAPI GraphQL</strong> backend which calls the function to start executing the steps of the <strong>LangGraph</strong>. An embedding is created from the question and a similarity search done in <strong>Pinecone</strong> to find semantically related text to the question.    
+        This is the context, and it is added to the question to create a prompt for <strong>Google's Gemini Flash</strong> chat model. The answer is returned through the same pipeline and displayed on the <strong>Flask Frontend</strong> application.    
+        This RAG application can be used for any website. Just change the website in the code on GitHub.
+      </p>  
+    </div>
+  </div>
+  <div style="flex: 1; ">
+    <div style="text-align: right; margin-top: 3px;font-size: 13px;">
+    <a href="https://github.com/siliconshells/langchain_RAG" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
+      View on GitHub →
+    </a>
+  </div>  
+</div>
+
+
 <div style="display: flex; flex-direction: column; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #fbf8f8ff;">
   
   <div style="flex: 1; ">
@@ -73,4 +103,5 @@ redirect_from:
     </a>
   </div>  
 </div>
+
 </div>
