@@ -75,7 +75,6 @@ redirect_from:
     </a>
   </div>  
 </div>
-</div>
 
 
 <div style="display: flex; flex-direction: column; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #f8f7fcff;">
