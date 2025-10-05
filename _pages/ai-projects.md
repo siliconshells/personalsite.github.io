@@ -33,7 +33,9 @@ redirect_from:
     <!-- Right Column (Description) -->
     <div style="flex: 1; display: flex;">
       <p style="margin: 0; padding: 4px 0;font-size: 15px;">
-        This project uses PyTorch to demonstrate the application of various explainability techniques on a pre-trained ResNet-50 model using butterfly images. It helps to understand how different CAM explainability techniques can be applied to deep learning models, and how they can provide insights into model predictions. In this case, the ResNet-50 Classifier is used to classify images of butterflies, and the explainability techniques help to visualize which parts of the images are most important for the model's predictions.      
+        This project uses PyTorch to demonstrate the application of various explainability techniques on a pre-trained ResNet-50 model using butterfly images. It helps to understand how different CAM explainability techniques can be applied to deep learning models. 
+        <br>
+        In this case, the ResNet-50 Classifier is used to classify images of butterflies, and the explainability techniques help to visualize which parts of the images are most important for the model's predictions.      
         <br>
         It also highlights the importance of model explainability, and can help us identify potential areas for improvement. It can assist us in the event that we want to retrain the model, to give it effective images, knowing what it attends to, or use a different architecture that may be better suited for distinguishing between similar species.
       </p>  
