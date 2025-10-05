@@ -4,8 +4,8 @@ title: "Certifications"
 permalink: /Certifications/
 author_profile: true
 redirect_from: 
-  - /Certifications/
-  - /Certifications.html
+  # - /Certifications/
+  # - /Certifications.html
 ---
 
 <!-- {% if site.talkmap_link == true %}
