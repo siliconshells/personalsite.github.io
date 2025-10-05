@@ -22,6 +22,35 @@ redirect_from:
 <div style="display: flex; flex-direction: column; border: 1px solid #6c85b4ff; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #f4f9ffff;">
   
   <div style="flex: 1; ">
+    <h3 style="margin: 0 0 12px 0;">Explainable Deep Learning</h3>
+  </div>
+
+  <div style="display: flex;">
+    <!-- Left Column (Title + Image + GitHub Link) -->
+    <div style="flex: 0 0 200px; margin-right: 20px;">
+      <img src="/images/explainableAI.png" alt="Project Thumbnail" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #ddd;" />
+    </div>
+    <!-- Right Column (Description) -->
+    <div style="flex: 1; display: flex;">
+      <p style="margin: 0; padding: 4px 0;font-size: 15px;">
+        This project demonstrates the application of various explainability techniques on a pre-trained ResNet-50 model using butterfly images. It helps to understand how different CAM explainability techniques can be applied to deep learning models, and how they can provide insights into model predictions. In this case, the ResNet-50 Classifier is used to classify images of butterflies, and the explainability techniques help to visualize which parts of the images are most important for the model's predictions. Overall, it helps to know how to better train and explain deep learning models for image classification tasks.    
+        It also highlights the importance of model explainability, and can help us identify potential areas for improvement. It can assist us in the event that we want to retrain the model to give it impactful images, knowing what it attends to, or use a different architecture that may be better suited for distinguishing between similar species.
+      </p>  
+    </div>
+  </div>
+  <div style="flex: 1; ">
+    <div style="text-align: right; margin-top: 3px;font-size: 15px;">
+      <a href="https://github.com/siliconshells/Explainable-AI/blob/main/week_6_explainable_deep_learning.ipynb" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
+        View on GitHub →
+      </a>
+    </div>  
+  </div>
+</div>
+
+
+<div style="display: flex; flex-direction: column; border: 1px solid #6c85b4ff; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #f4f9ffff;">
+  
+  <div style="flex: 1; ">
     <h3 style="margin: 0 0 12px 0;">A RAG Application using LangGraph</h3>
   </div>
 
