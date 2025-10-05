@@ -100,7 +100,7 @@ redirect_from:
     <!-- Right Column (Description) -->
     <div style="flex: 1; display: flex;">
       <p style="margin: 0; padding: 4px 0;font-size: 15px;">
-        I used Python and  Streamlit to create a web application that connects to <strong>OpenAI's GPT2</strong>, hosted on Hugging Face to complete a sentence. It then uses <strong>SD-Turbo</strong> to generate a related image and <strong>Toxic-BERT</strong> to check for inappropriate content generation by the LLM. GitHub CI/CD was used to push the code to an <strong>AWS EC2 instance</strong> hosting the application.
+        I used Python and  Streamlit to create a web application that connects to <strong>OpenAI's GPT2</strong>, hosted on <strong>Hugging Face</strong> to complete a sentence. It then uses <strong>SD-Turbo</strong> to generate a related image and <strong>Toxic-BERT</strong> to check for inappropriate content generation by the LLM. GitHub CI/CD was used to push the code to an <strong>AWS EC2 instance</strong> hosting the application.
       </p>
     </div>
   </div>
