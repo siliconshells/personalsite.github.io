@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Certifications"
+  - title: "AI & DS Projects"
     url: /
 
-  - title: "AI & DS Projects"
-    url: /ai-projects/
+  - title: "Certifications"
+    url: /Certifications/
 
   - title: "Other Projects"
     url: /other-projects/

@@ -1,5 +1,5 @@
 ---
-permalink: /ai-projects/
+permalink: / #ai-projects/
 title: "AI & Data Science Projects"
 excerpt: "AI & Data Science Projects"
 author_profile: true
