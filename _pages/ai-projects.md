@@ -22,6 +22,42 @@ redirect_from:
 <div style="display: flex; flex-direction: column; border: 1px solid #6c85b4ff; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #f4f9ffff;">
   
   <div style="flex: 1; ">
+    <h3 style="margin: 0 0 12px 0;">Explainable Deep Learning</h3>
+  </div>
+
+  <div style="display: flex;">
+    <!-- Left Column (Title + Image + GitHub Link) -->
+    <div style="flex: 0 0 200px; margin-right: 20px;">
+      <img src="/images/saliency.png" alt="Project Thumbnail" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #ddd;" />
+    </div>
+    <!-- Right Column (Description) -->
+    <div style="flex: 1; display: flex;">
+      <p style="margin: 0; padding: 4px 0;font-size: 15px;">
+        RAG systems use retrieved documents for context but don't tell how each retrieved document chunk affects their responses, so users can't verify faithfulness. Using a RAG system with sources we control, this project asks the Generation LLM to use only the retrieved context for its response, allowing us to evaluate how the LLMs use the context they get to provide a response.
+        <br>
+        This was containerized and deployed on <strong></strong>Google's Cloud Run. Using around 4 documents, it retrieve top-3 chunks using <strong></strong>Facebook AI Similarity Search (FAISS) vector "database". Embeddings were created with <strong></strong>all-MiniLM-L6-v2 from <strong></strong>sentence-transformers (HuggingFace). Generating with <strong></strong>OpenAI's gpt-4.1-mini and attributing sentences by matching them to their sources (cosine similarity). Computation of token-level saliency <strong></strong>(E5 embeddings) to show level of reliance on the source and flagging low-support sentences for hallucination detection.
+        <br>
+        An external <strong></strong>Redis from redis.com was used to cache the responses since the GCP instance is ephemeral and the system was <strong></strong>dockerized.
+      </p>  
+    </div>
+  </div>
+  <div style="flex: 1; ">
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 3px;font-size: 15px;">
+      <a href="https://x-rag.leonardeshun.com" target="_blank" style="color: #0955abff; text-decoration: none; font-weight: bold;">
+        Live Demonstration →
+      </a>
+      <a href="https://github.com/siliconshells/Explainable-RAG" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
+        View on GitHub →
+      </a>
+    </div>  
+  </div>
+</div>
+
+
+
+<div style="display: flex; flex-direction: column; border: 1px solid #6c85b4ff; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #f4f9ffff;">
+  
+  <div style="flex: 1; ">
     <h3 style="margin: 0 0 12px 0;">Explainable RAG</h3>
   </div>
 
@@ -50,40 +86,6 @@ redirect_from:
   </div>
 </div>
 
-
-<div style="display: flex; flex-direction: column; border: 1px solid #6c85b4ff; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #f4f9ffff;">
-  
-  <div style="flex: 1; ">
-    <h3 style="margin: 0 0 12px 0;">Explainable Deep Learning</h3>
-  </div>
-
-  <div style="display: flex;">
-    <!-- Left Column (Title + Image + GitHub Link) -->
-    <div style="flex: 0 0 200px; margin-right: 20px;">
-      <img src="/images/explainableAI.png" alt="Project Thumbnail" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #ddd;" />
-    </div>
-    <!-- Right Column (Description) -->
-    <div style="flex: 1; display: flex;">
-      <p style="margin: 0; padding: 4px 0;font-size: 15px;">
-        RAG systems use retrieved documents for context but don't tell how each retrieved document chunk affects their responses, so users can't verify faithfulness. Using a RAG system with sources we control, this project asks the Generation LLM to use only the retrieved context for its response, allowing us to evaluate how the LLMs use the context they get to provide a response.
-        <br>
-        This was containerized and deployed on Google's Cloud Run. Using around 4 documents, it retrieve top-3 chunks using Facebook AI Similarity Search (FAISS) vector "database". Embeddings were created with `all-MiniLM-L6-v2` from `sentence-transformers (HuggingFace)`. Generating with OpenAI's `gpt-4.1-mini` and attributing sentences by matching them to their sources (cosine similarity). Computation of token-level saliency (E5 embeddings) to show level of reliance on the source and flagging low-support sentences for hallucination detection.
-        <br>
-        An external Redis from redis.com was used to cache the responses since the GCP instance is ephemeral and the system was dockerized.
-      </p>  
-    </div>
-  </div>
-  <div style="flex: 1; ">
-    <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 3px;font-size: 15px;">
-      <a href="https://x-rag.leonardeshun.com" target="_blank" style="color: #0955abff; text-decoration: none; font-weight: bold;">
-        Live Demonstration →
-      </a>
-      <a href="https://github.com/siliconshells/Explainable-RAG" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
-        View on GitHub →
-      </a>
-    </div>  
-  </div>
-</div>
 
 
 <div style="display: flex; flex-direction: column; border: 1px solid #6c85b4ff; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #f4f9ffff;">
