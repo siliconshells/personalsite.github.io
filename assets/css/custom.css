@@ -1,7 +1,7 @@
 .page-content,
 .post-content,
 .container {
-    max-width: 90% !important;   /* Expand to full width */
+    max-width: 100% !important;   /* Expand to full width */
     width: 100% !important;
     padding-left: 2rem;
     padding-right: 2rem;
