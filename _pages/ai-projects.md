@@ -55,7 +55,7 @@ redirect_from:
 
 
 
-<div style="display: flex; flex-direction: column; border: 1px solid #6c85b4ff; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #f4f9ffff;">
+<div style="display: flex; flex-direction: column; border: 1px solid #6c85b4ff; border-radius: 8px; padding: 16px; margin: 16px 0; width: 100%; background-color: #f4f9ffff;">
   
   <div style="flex: 1; ">
     <h3 style="margin: 0 0 12px 0;">Explainable Deep Learning</h3>
@@ -88,7 +88,7 @@ redirect_from:
 
 
 
-<div style="display: flex; flex-direction: column; border: 1px solid #6c85b4ff; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #f4f9ffff;">
+<div style="display: flex; flex-direction: column; border: 1px solid #6c85b4ff; border-radius: 8px; padding: 16px; margin: 16px 0; width: 100%; background-color: #f4f9ffff;">
   
   <div style="flex: 1; ">
     <h3 style="margin: 0 0 12px 0;">A RAG Application using LangGraph</h3>
@@ -123,7 +123,7 @@ redirect_from:
 </div>
 
 
-<div style="display: flex; flex-direction: column; border: 1px solid #6c85b4ff; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #f4f9ffff;">
+<div style="display: flex; flex-direction: column; border: 1px solid #6c85b4ff; border-radius: 8px; padding: 16px; margin: 16px 0; width: 100%; background-color: #f4f9ffff;">
   
   <div style="flex: 1; ">
     <h3 style="margin: 0 0 12px 0;">Integration of LLM into an application</h3>
@@ -151,7 +151,7 @@ redirect_from:
 </div>
 
 
-<div style="display: flex; flex-direction: column; border: 1px solid #6c85b4ff; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 750px; background-color: #f4f9ffff;">
+<div style="display: flex; flex-direction: column; border: 1px solid #6c85b4ff; border-radius: 8px; padding: 16px; margin: 16px 0; width: 100%; background-color: #f4f9ffff;">
   
   <div style="flex: 1; ">
     <h3 style="margin: 0 0 12px 0;">Text Search with Vector Databases</h3>
