@@ -11,9 +11,9 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
-  @include breakpoint($x-large) {
-    max-width: $x-large;
-  }
+  // @include breakpoint($x-large) {
+  //   max-width: $x-large;
+  // }
 }
 
 .page {
@@ -348,7 +348,7 @@
 
 .comment__content-wrapper {
   float: right;
-  // width: calc(100% - 60px);
+  width: calc(100% - 60px);
 
   @include breakpoint($large) {
     width: calc(100% - 100px);
