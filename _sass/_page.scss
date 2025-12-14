@@ -31,6 +31,7 @@
     .page__share {
       @include full();
     }
+    max-width: 100%;
   }
 }
 
@@ -348,7 +349,7 @@
 
 .comment__content-wrapper {
   float: right;
-  width: calc(100% - 100px);
+  width: calc(100% - 60px);
 
   @include breakpoint($large) {
     width: calc(100% - 100px);
