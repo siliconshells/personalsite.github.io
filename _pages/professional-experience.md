@@ -9,9 +9,20 @@ redirect_from:
 
 ---
 
-**Period:** May 2025 to Present   
+**Period:** January 2026 to April 2026   
+**Institution:** Medlaunch Concepts LLC   
+**Position:** AI Engineer (Winter/Spring Internship)     
+
+---   
+Developed data pipelines and models to enhance healthcare facility compliance analysis. Used cloud resources to build predictive models that identify risks and trends, and developed AI solutions for the lexical and semantic retrieval of compliance information. Extracted data from PDFs and APIs, created consistent JSON, chunked, embedded, and indexed for Agent tooling. Built AI agents using LLM SDKs and internal APIs. Collaborated with diverse teams in a startup and engaged in code reviews. I’ve developed a solid understanding of startup environments, including fast-paced execution, continuous improvement, effective prioritization, and delivering meaningful results under uncertainty.
+
+---
+
+<br >
+
+**Period:** May 2025 to August 2025   
 **Institution:** Duke Rhodes Information Initiative   
-**Position:** Data Science Fellow (Graduate Assistant)     
+**Position:** Data Science Fellow (Summer Internship)     
 
 ---   
 Worked at the Duke Marine Laboratory to build a data system for the Socio-Economic Mapping of Coastal Zones,
