@@ -22,6 +22,41 @@ redirect_from:
 <div style="display: flex; flex-direction: column; border: 1px solid #8b939bff; border-radius: 8px; padding: 16px; margin: 16px 0; width: 100%; background-color: #fdfdfcff;">
   
   <div style="flex: 1; ">
+    <h3 style="margin: 0 0 12px 0;">Automated Trading Data Pipeline & LLM Engine</h3>
+  </div>
+
+  <div style="display: flex;">
+    <!-- Left Column (Title + Image + GitHub Link) -->
+    <div style="flex: 0 0 200px; margin-right: 20px;">
+      <img src="/images/dashboard.png" alt="Project Thumbnail" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #ddd;" />
+    </div>
+    <!-- Right Column (Description) -->
+    <div style="flex: 1; display: flex;">
+      <p style="margin: 0; padding: 4px 0;font-size: 15px;">
+        An end-to-end platform that <strong>automates</strong> the collection, storage, and AI-powered analysis of stock market data for internal research teams. The system runs an intraday data pipeline via <strong>Airflow</strong>, exposes structured data and <strong>LLM-generated</strong> analysis through a FastAPI backend, and presents everything through a React dashboard.
+        <br>
+        Everything is containerized with Docker, orchestrated on <strong>Kubernetes</strong>, provisioned via Terraform on AWS, and deployed through a GitHub Actions CI/CD pipeline.      
+      </p>  
+    </div>
+  </div>
+  <div style="flex: 1; ">
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 3px;font-size: 15px;">
+      <a href="https://k8s-dashboard.leonardeshun.com" target="_blank" style="color: #0955abff; text-decoration: none; font-weight: bold;">
+        Live Demonstration →
+      </a>
+      <a href="https://github.com/siliconshells/investment_assistant" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
+        View on GitHub →
+      </a>
+    </div>  
+  </div>
+</div>
+
+
+
+
+<div style="display: flex; flex-direction: column; border: 1px solid #8b939bff; border-radius: 8px; padding: 16px; margin: 16px 0; width: 100%; background-color: #fdfdfcff;">
+  
+  <div style="flex: 1; ">
     <h3 style="margin: 0 0 12px 0;">Explainable RAG</h3>
   </div>
 
