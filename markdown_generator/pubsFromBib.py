@@ -17,7 +17,9 @@
 
 
 from pybtex.database.input import bibtex
+import pybtex.database.input.bibtex
 from time import strptime
+import string
 import html
 import os
 import re

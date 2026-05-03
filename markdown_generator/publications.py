@@ -22,8 +22,6 @@
 
 # In[2]:
 
-import os
-
 import pandas as pd
 
 
@@ -36,6 +34,7 @@ import pandas as pd
 # In[3]:
 
 publications = pd.read_csv("publications.tsv", sep="\t", header=0)
+publications
 
 
 # ## Escape special characters
@@ -58,9 +57,12 @@ def html_escape(text):
 
 # In[5]:
 
+import os
+
 for row, item in publications.iterrows():
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
     html_filename = str(item.pub_date) + "-" + item.url_slug
+    year = item.pub_date[:4]
 
     ## YAML variables
 
