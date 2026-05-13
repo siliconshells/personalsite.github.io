@@ -126,7 +126,7 @@ redirect_from:
 <div style="display: flex; flex-direction: column; border: 1px solid #8b939bff; border-radius: 8px; padding: 16px; margin: 16px 0; width: 100%; background-color: #fdfdfcff;">
   
   <div style="flex: 1; ">
-    <h3 style="margin: 0 0 12px 0;">A RAG Application using LangGraph</h3>
+    <h3 style="margin: 0 0 12px 0;">A Personal Assistant (RAG Application) using LangChain</h3>
   </div>
 
   <div style="display: flex;">
@@ -137,9 +137,9 @@ redirect_from:
     <!-- Right Column (Description) -->
     <div style="flex: 1; display: flex;">
       <p style="margin: 0; padding: 4px 0;font-size: 15px;">
-        This project demonstrates a <strong>LangGraph</strong> pipeline served with <strong>FastAPI + Strawberry GraphQL</strong>, integrated with vector search in <strong>Pinecone</strong>. A crawler scans my website to collect all accessible links, and the contents are loaded and chunked for efficient processing by the models. Embeddings are then generated from these chunks and stored in Pinecone for later retrieval.    
+        This project demonstrates a <strong>LangChain</strong> pipeline served with <strong>FastAPI + Strawberry GraphQL</strong>, integrated with vector search in <strong>Pinecone</strong>. A crawler scans this website to collect all accessible links, and the contents are loaded and chunked for efficient processing by the models. Embeddings are then generated from these chunks and stored in Pinecone for later retrieval.    
         <br>
-        When a user enters a question in the <strong>Flask</strong> frontend, it is sent to the <strong>FastAPI GraphQL</strong> backend, which triggers the execution of the <strong>LangGraph</strong> pipeline. An embedding is created from the question, and a similarity search is performed in Pinecone to find semantically related text. This context is combined with the question to form a prompt for <strong>Google's Gemini Flash</strong> chat model. The answer is returned through the same pipeline and displayed to the user.   
+        When a user enters a question in the <strong>Flask</strong> frontend, it is sent to the <strong>FastAPI GraphQL</strong> backend, which triggers the execution of the <strong>LangChain</strong> pipeline. An embedding is created from the question, and a similarity search is performed in Pinecone to find semantically related text. This context is combined with the question to form a prompt for <strong>Google's Gemini Flash</strong> chat model. The answer is returned through the same pipeline and displayed to the user.   
         <br>
         The RAG application is designed to be adaptable: it can work with any website by changing the target domain in the GitHub code, and it can be extended to other data sources by modifying the loader.    
       </p>  
