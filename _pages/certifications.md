@@ -19,8 +19,8 @@ redirect_from:
 {% endfor %} -->
 
 ----
-## AWS Cloud Practitioner    
-**Issuing Organization:** Building with the Claude API      
+## Building with the Claude API    
+**Issuing Organization:** Anthropic PBC      
 
 <p align="center">
   <img src="/images/claude_api.png" />
