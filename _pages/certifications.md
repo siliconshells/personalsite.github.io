@@ -18,6 +18,25 @@ redirect_from:
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
+----
+## AWS Cloud Practitioner    
+**Issuing Organization:** Building with the Claude API      
+
+<p align="center">
+  <img src="/images/claude_api.png" />
+</p>
+Please <a href="https://verify.skilljar.com/c/waynnpkqidjy" target="_blank">verify here</a>.   
+
+
+----
+## AWS Cloud Practitioner    
+**Issuing Organization:** Amazon Web Services Training and Certification      
+
+<p align="center">
+  <img src="/images/aws-certified-cloud-practitioner.png" />
+</p>
+Please <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/c382200b7a5b4235947b8d45759d51da" target="_blank">verify here</a>.   
+
 
 ## Python Programming Fundamentals
 **Issuing Organization:** Coursera, by Duke University.    
@@ -38,15 +57,6 @@ Please <a href="https://coursera.org/verify/BPYYS2XQ3SB5" target="_blank">verify
 </p>
 Please <a href="https://credentials.databricks.com/c2193323-7436-4548-81ed-b90560dce420#acc.R1JIEGKU" target="_blank">verify here</a>.   
 
-
-----
-## AWS Cloud Practitioner    
-**Issuing Organization:** Amazon Web Services Training and Certification      
-
-<p align="center">
-  <img src="/images/aws-certified-cloud-practitioner.png" />
-</p>
-Please <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/c382200b7a5b4235947b8d45759d51da" target="_blank">verify here</a>.   
 
 ----
 ## Lab - Analyze and Prepare Data with Amazon SageMaker Data Wrangler and Amazon EMR    
