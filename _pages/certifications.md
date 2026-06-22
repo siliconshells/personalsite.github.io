@@ -19,7 +19,7 @@ redirect_from:
 {% endfor %} -->
 
 ----
-## Introduction to Model Control Protocol    
+## Introduction to Model Context Protocol    
 **Issuing Organization:** Anthropic PBC      
 
 <p align="center">
