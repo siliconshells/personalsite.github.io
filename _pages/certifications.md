@@ -19,6 +19,16 @@ redirect_from:
 {% endfor %} -->
 
 ----
+## Introduction to Model Control Protocol    
+**Issuing Organization:** Anthropic PBC      
+
+<p align="center">
+  <img src="/images/claude_mcp.png" />
+</p>
+Please <a href="https://verify.skilljar.com/c/x69mdnvfgu4f" target="_blank">verify here</a>.  
+
+
+----
 ## Building with the Claude API    
 **Issuing Organization:** Anthropic PBC      
 
