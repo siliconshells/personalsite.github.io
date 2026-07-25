@@ -26,7 +26,7 @@ redirect_from:
       <p style="margin: 0; padding: 4px 0;font-size: 15px;">
 A team of AI agents figures out why a web system broke - and shows its evidence.<br>
 
-Alert fires → Coordinator plans → Investigators dig ×N → Verifier attacks → Cited RCA + your approval<br>
+Alert fires → Coordinator plans → Investigators dig ×N → Verifier attacks → Cited RCA + your approval
 
 <br><strong>Incident</strong><br>
 A live web system is dozens of services calling each other. When one misbehaves, an alert fires — but it names the symptom, not the cause.
