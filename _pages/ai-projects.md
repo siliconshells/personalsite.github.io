@@ -28,11 +28,11 @@ A team of AI agents figures out why a web system broke - and shows its evidence.
 
 Alert fires → Coordinator plans → Investigators dig ×N → Verifier attacks → Cited RCA + your approval<br>
 
-<strong>Incident</strong><br>
+<br><strong>Incident</strong><br>
 A live web system is dozens of services calling each other. When one misbehaves, an alert fires — but it names the symptom, not the cause.
-<strong>RCA (root-cause analysis)</strong><br>
+<br><strong>RCA (root-cause analysis)</strong><br>
 The written answer: what broke, in which service, with a confidence score and cited log, metric, and deploy events as proof.
-<strong>Where the data comes from</strong><br>
+<br><strong>Where the data comes from</strong><br>
 A deterministic fake world built from a seed, with exactly one injected fault. The true answer (ground truth) is hidden from the agents and used only to grade them.     
       </p>  
     </div>
