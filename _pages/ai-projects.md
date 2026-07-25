@@ -10,6 +10,47 @@ redirect_from:
 #Example: editing a markdown file for a talk
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
+<div style="display: flex; flex-direction: column; border: 1px solid #8b939bff; border-radius: 8px; padding: 16px; margin: 16px 0; width: 100%; background-color: #fdfdfcff;">
+  
+  <div style="flex: 1; ">
+    <h3 style="margin: 0 0 12px 0;">Aegis - Agentic Incident Triage & Root-Cause Analysis</h3>
+  </div>
+
+  <div style="display: flex;">
+    <!-- Left Column (Title + Image + GitHub Link) -->
+    <div style="flex: 0 0 200px; margin-right: 20px;">
+      <img src="/images/dashboard.png" alt="Project Thumbnail" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #ddd;" />
+    </div>
+    <!-- Right Column (Description) -->
+    <div style="flex: 1; display: flex;">
+      <p style="margin: 0; padding: 4px 0;font-size: 15px;">
+A team of AI agents figures out why a web system broke - and shows its evidence.
+
+Alert fires → Coordinator plans → Investigators dig ×N → Verifier attacks → Cited RCA + your approval
+
+<strong>Incident</strong>
+A live web system is dozens of services calling each other. When one misbehaves, an alert fires — but it names the symptom, not the cause.
+<strong>RCA (root-cause analysis)</strong>
+The written answer: what broke, in which service, with a confidence score and cited log, metric, and deploy events as proof.
+<strong>Where the data comes from</strong>
+A deterministic fake world built from a seed, with exactly one injected fault. The true answer (ground truth) is hidden from the agents and used only to grade them.     
+      </p>  
+    </div>
+  </div>
+  <div style="flex: 1; ">
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 3px;font-size: 15px;">
+      <a href="https://agentic-rca.leonardeshun.com" target="_blank" style="color: #0955abff; text-decoration: none; font-weight: bold;">
+        Live Demonstration →
+      </a>
+      <a href="https://github.com/siliconshells/agentic_rca" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
+        View on GitHub →
+      </a>
+    </div>  
+  </div>
+</div>
+
+
+
 
 <div style="display: flex; flex-direction: column; border: 1px solid #8b939bff; border-radius: 8px; padding: 16px; margin: 16px 0; width: 100%; background-color: #fdfdfcff;">
   
