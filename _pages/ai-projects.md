@@ -19,20 +19,20 @@ redirect_from:
   <div style="display: flex;">
     <!-- Left Column (Title + Image + GitHub Link) -->
     <div style="flex: 0 0 200px; margin-right: 20px;">
-      <img src="/images/dashboard.png" alt="Project Thumbnail" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #ddd;" />
+      <img src="/images/rca.png" alt="Project Thumbnail" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #ddd;" />
     </div>
     <!-- Right Column (Description) -->
     <div style="flex: 1; display: flex;">
       <p style="margin: 0; padding: 4px 0;font-size: 15px;">
-A team of AI agents figures out why a web system broke - and shows its evidence.
+A team of AI agents figures out why a web system broke - and shows its evidence.<br>
 
-Alert fires → Coordinator plans → Investigators dig ×N → Verifier attacks → Cited RCA + your approval
+Alert fires → Coordinator plans → Investigators dig ×N → Verifier attacks → Cited RCA + your approval<br>
 
-<strong>Incident</strong>
+<strong>Incident</strong><br>
 A live web system is dozens of services calling each other. When one misbehaves, an alert fires — but it names the symptom, not the cause.
-<strong>RCA (root-cause analysis)</strong>
+<strong>RCA (root-cause analysis)</strong><br>
 The written answer: what broke, in which service, with a confidence score and cited log, metric, and deploy events as proof.
-<strong>Where the data comes from</strong>
+<strong>Where the data comes from</strong><br>
 A deterministic fake world built from a seed, with exactly one injected fault. The true answer (ground truth) is hidden from the agents and used only to grade them.     
       </p>  
     </div>
