@@ -19,6 +19,16 @@ redirect_from:
 {% endfor %} -->
 
 ----
+## Claude Certified Architect - Foundations    
+**Issuing Organization:** Anthropic PBC      
+
+<p align="center">
+  <img src="/images/ccaf.png" />
+</p>
+Please <a href="https://www.credly.com/badges/7960bead-80c9-4b97-b057-c194a5e49ed6/public_url" target="_blank">verify here</a>.  
+
+
+----
 ## Introduction to Model Context Protocol    
 **Issuing Organization:** Anthropic PBC      
 
