@@ -9,7 +9,7 @@ author_profile: true
 #Example: editing a markdown file for a talk
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
-Research-oriented data science graduate with a strong foundation in machine learning, deep learning, cybersecurity, data engineering, cloud computing, and software engineering. Experienced in designing, building, and deploying scalable, secure systems. Passionate about investigating open problems at the intersection of trustworthy AI, cybersecurity, autonomous systems, and secure sensing to develop reliable, secure, and user-focused solutions. Curious, adaptable, and collaborative, with a commitment to rigorous inquiry and continuous learning.
+Research-oriented data science graduate with a strong foundation in machine learning, deep learning, cybersecurity, data engineering, cloud computing, and software engineering. Experienced in designing, building, and deploying scalable, secure systems. Passionate about investigating open problems at the intersection of trustworthy AI, cybersecurity, autonomous systems, and secure sensing to develop reliable, and user-focused solutions. Curious, adaptable, and collaborative, with a commitment to rigorous inquiry and continuous learning.
 <!-- I want to focus on research in the next years of my career to contribute to the body of knowledge in IT and Engineering. -->
 
 
