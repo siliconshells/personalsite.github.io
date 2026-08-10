@@ -3,8 +3,8 @@ main:
   - title: "AI & DS Projects"
     url: /
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
   - title: "Certifications"
     url: /Certifications/
