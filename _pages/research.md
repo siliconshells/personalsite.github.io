@@ -102,12 +102,12 @@ My research looks at whether we can actually supervise AI agents as they get mor
 
   <div style="flex: 1;">
     <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between; margin-top: 10px; font-size: 15px;">
-      <a href="/files/agent-oversight-credulity.pdf" style="color: #0955abff; text-decoration: none; font-weight: bold;">
+      <!-- <a href="/files/agent-oversight-credulity.pdf" style="color: #0955abff; text-decoration: none; font-weight: bold;">
         Read the Paper (PDF) →
-      </a>
-      <a href="/files/agent-oversight-credulity.pdf" download style="color: #0955abff; text-decoration: none; font-weight: bold;">
+      </a> -->
+      <!-- <a href="/files/agent-oversight-credulity.pdf" download style="color: #0955abff; text-decoration: none; font-weight: bold;">
         Download PDF ↓
-      </a>
+      </a> -->
       <a href="https://github.com/siliconshells/agent-oversight-credulity" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
         Code, Data &amp; Figures on GitHub →
       </a>
