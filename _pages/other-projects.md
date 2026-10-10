@@ -10,7 +10,7 @@ redirect_from:
 #Example: editing a markdown file for a talk
 #![Editing a markdown file for a talk](/images/editing-talk.png)
 ---
-**Gitlab projects**  
+<!-- **Gitlab projects**  
 Gitlab projects portfolio written with Zola and hosted on AWS S3. Updates to the website are done through GitLab CI/CD. Click on the thumbnail below to visit the site.  
 
 <p align="center">
@@ -18,7 +18,7 @@ Gitlab projects portfolio written with Zola and hosted on AWS S3. Updates to the
       <img src="../images/zola-logo.png" width="277" height="204">
   </a>
 </p>
-<br >
+<br > -->
 
 **Playing with my Arduino Uno R4 Wifi**  
 I enjoy working with the Arduino board which also has the versatile ESP32 chip on board. It's a joy to work at the interface of hardware and software and try the different things you can turn a microprocessor into through software.
@@ -42,7 +42,7 @@ I designed a Mobile Biometric Data Enrolment Unit from scratch through several i
 
 <br >
 
-**An Ecommerce Site I started**  
+<!-- **An Ecommerce Site I started**  
 
 <p align="center">
   <img src="/images/ecommerce.png" />
@@ -51,7 +51,7 @@ An Ecommerce Platform under development. It was written in ASP.Net Webforms and 
 <a href="http://testshop.oxygenegroup.com" target="_blank">See the test site here</a>
 
 
-<br >
+<br > -->
 
 **Human Resource and Payroll Management Software**  
 
@@ -61,10 +61,10 @@ A screenshot of the Client System.
 <p align="center">
   <img src="/images/client.png" />
 </p>
-A screenshot of the Server.
+<!-- A screenshot of the Server.
 <p align="center">
   <img src="/images/server.png" />
-</p>
+</p> -->
 
 
 <br >
