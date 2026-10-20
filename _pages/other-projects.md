@@ -31,31 +31,28 @@ Gitlab projects portfolio written with Zola and hosted on AWS S3. Updates to the
 <p align="left">
 Workbench setup
 </p>
-<br >
-
+   
 <p align="center">
   <img src="/images/medcontainer_finished.jpg" />
 </p>
 <p align="left">
 MedContainer after soldering in all components
 </p>
-<br >
-
+   
 <p align="center">
   <img src="/images/medcontainer_capsule.jpg" />
 </p>
 <p align="left">
 MedContainer with different types of medicines
 </p>
-<br >
+   
 <p align="center">
   <img src="/images/medcontainer_side.jpg" />
 </p>
 <p align="left">
 Side view of the MedContainer 
 </p>
-<br >
-
+   
 <p align="center">
   <img src="/images/medcontainer_top.jpg" />
 </p>
