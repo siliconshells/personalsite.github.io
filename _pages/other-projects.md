@@ -20,11 +20,47 @@ Gitlab projects portfolio written with Zola and hosted on AWS S3. Updates to the
 </p>
 <br > -->
 
-**Playing with my Arduino Uno R4 Wifi**  
-I enjoy working with the Arduino board which also has the versatile ESP32 chip on board. It's a joy to work at the interface of hardware and software and try the different things you can turn a microprocessor into through software.
+**MedContainer - ESP32 Medication Sensing Device**  
+• Designing and prototyping an ESP32-based medication container using optical break-beam sensing to determine whether the medication for each scheduled dose remains in or has been removed from the container, and to report refill and container status.   
+• Investigating whether a TinyML classifier applied to raw beam-intensity signals improves detection of container state and sensor fouling over fixed-threshold methods, particularly for small or translucent medications that only partially occlude the beam.   
+• Transmitting device state over Wi-Fi to a custom mobile application to support adherence monitoring in home and eldercare settings, informed by skilled nursing facility workflows from production healthcare AI work.   
 
 <p align="center">
-  <img src="/images/arduino.jpg" />
+  <img src="/images/medcontainer_setup.jpg" />
+</p>
+<p align="left">
+Workbench setup
+</p>
+<br >
+
+<p align="center">
+  <img src="/images/medcontainer_finished.jpg" />
+</p>
+<p align="left">
+MedContainer after soldering in all components
+</p>
+<br >
+
+<p align="center">
+  <img src="/images/medcontainer_capsule.jpg" />
+</p>
+<p align="left">
+MedContainer with different types of medicines
+</p>
+<br >
+<p align="center">
+  <img src="/images/medcontainer_side.jpg" />
+</p>
+<p align="left">
+Side view of the MedContainer 
+</p>
+<br >
+
+<p align="center">
+  <img src="/images/medcontainer_top.jpg" />
+</p>
+<p align="left">
+MedContainer's top view showing emitters and detectors
 </p>
 <br >
 
