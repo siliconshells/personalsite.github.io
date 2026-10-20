@@ -27,8 +27,7 @@ Gitlab projects portfolio written with Zola and hosted on AWS S3. Updates to the
 
 <p align="center">
   <img src="/images/medcontainer_setup.jpg" />
-</p>
-<p align="left">
+   
 Workbench setup
 </p>
    
