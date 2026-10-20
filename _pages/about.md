@@ -16,7 +16,7 @@ Research-oriented data science graduate with a strong foundation in Aritificial 
 Education
 ------
 2024 - 2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       Duke University  
-MSc. Interdisciplinary Data Science (underway)  
+MSc. Interdisciplinary Data Science  
 
 2016 – 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       Virginia Polytechnic Institute and State University (VirginiaTech)  
 MIT. Information Technology  
