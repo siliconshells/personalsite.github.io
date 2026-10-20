@@ -34,30 +34,26 @@ Workbench setup
    
 <p align="center">
   <img src="/images/medcontainer_finished.jpg" />
-</p>
-<p align="left">
-MedContainer after soldering in all components
+   
+MedContainer's top view showing emitters and detectors
 </p>
    
 <p align="center">
   <img src="/images/medcontainer_capsule.jpg" />
-</p>
-<p align="left">
+   
 MedContainer with different types of medicines
 </p>
    
 <p align="center">
   <img src="/images/medcontainer_side.jpg" />
-</p>
-<p align="left">
+   
 Side view of the MedContainer 
 </p>
    
 <p align="center">
   <img src="/images/medcontainer_top.jpg" />
-</p>
-<p align="left">
-MedContainer's top view showing emitters and detectors
+   
+MedContainer firmware development (ESP32 Dev board + Container + Arduino IDE on computer)
 </p>
 <br >
 
