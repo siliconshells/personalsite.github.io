@@ -194,7 +194,7 @@ A deterministic fake world built from a seed, with exactly one injected fault. T
 <div style="display: flex; flex-direction: column; border: 1px solid #8b939bff; border-radius: 8px; padding: 16px; margin: 16px 0; width: 100%; background-color: #fdfdfcff;">
   
   <div style="flex: 1; ">
-    <h3 style="margin: 0 0 12px 0;">Integration of LLM into an application</h3>
+    <h3 style="margin: 0 0 12px 0;">Image Generation</h3>
   </div>
 
   <div style="display: flex;">
