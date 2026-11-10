@@ -6,8 +6,21 @@ author_profile: true
 redirect_from: 
   # - /professional-experience/
   # - /professional-experience.html
+---
+
+**Period:** August 2026 to present   
+**Institution:** Ocean Synthesis Lab - Duke University   
+**Position:** Data Scientist     
+
+---   
+- Designed and built data pipelines to extract protected resources assessment data from disparate Excel, Word, and PDF files, transforming them into a consistent, research-ready dataset.
+- Developed a React dashboard that centralized data from approximately 180 standardized variables, reducing assessment review time from 7 minutes to 4 minutes.
+- Built automated validation for missing values, unexpected values, duplicates, and extraction failures, and refined scripts to improve data accuracy and coverage.
 
 ---
+
+<br >
+
 
 **Period:** January 2026 to April 2026   
 **Institution:** Medlaunch Concepts LLC   
