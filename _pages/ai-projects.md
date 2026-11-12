@@ -189,32 +189,3 @@ A deterministic fake world built from a seed, with exactly one injected fault. T
     </div>  
   </div>
 </div>
-
-
-<div style="display: flex; flex-direction: column; border: 1px solid #8b939bff; border-radius: 8px; padding: 16px; margin: 16px 0; width: 100%; background-color: #fdfdfcff;">
-  
-  <div style="flex: 1; ">
-    <h3 style="margin: 0 0 12px 0;">Image Generation</h3>
-  </div>
-
-  <div style="display: flex;">
-    <!-- Left Column (Title + Image + GitHub Link) -->
-    <div style="flex: 0 0 200px; margin-right: 20px;">
-      <img src="/images/tmb_streamlit_on_aws.png" alt="Project Thumbnail" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #ddd;" />
-    </div>
-    <!-- Right Column (Description) -->
-    <div style="flex: 1; display: flex;">
-      <p style="margin: 0; padding: 4px 0;font-size: 15px;">
-        I used Python and  Streamlit to create a web application that connects to <strong>OpenAI's GPT2</strong>, hosted on <strong>Hugging Face</strong> to complete a sentence. It then uses <strong>SD-Turbo</strong> to generate a related image and <strong>Toxic-BERT</strong> to check for inappropriate content generation by the LLM. GitHub CI/CD was used to push the code to an <strong>AWS EC2 instance</strong> hosting the application.
-      </p>
-    </div>
-  </div>
-  <div style="flex: 1; ">
-    <div style="text-align: right; margin-top: 3px;font-size: 15px;">
-      <a href="https://gitlab.com/dukeaiml/ids721-spring2025/Leonard_Eshun_Mini_Project_Eight" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">
-        View on GitLab →
-      </a>
-    </div>  
-  </div>
-</div>
-
